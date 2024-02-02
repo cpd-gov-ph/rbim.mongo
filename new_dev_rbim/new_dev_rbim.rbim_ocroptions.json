@@ -1,0 +1,1098 @@
+[{
+  "_id": {
+    "$oid": "63e380d93f15f8e4ea056480"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:41.752Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:41.752Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "KAYAhwBaTeWblEEcx07sTw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q1",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380d93f15f8e4ea056481"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:41.881Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:41.881Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ngmhDqwFSuqpCq+gvl40cA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q2",
+  "ops": [
+    "Head",
+    "Spouse",
+    "Son",
+    "Daughter",
+    "Stepson",
+    "Stepdaughter",
+    "Son-in-law",
+    "Daughter-in-law",
+    "Grandson",
+    "Granddaughter",
+    "Father",
+    "Mother",
+    "Brother",
+    "Sister",
+    "Uncle",
+    "Aunt",
+    "Nephew",
+    "Niece",
+    "Other relative",
+    "Non-relative",
+    "Boarder",
+    "Domestic helper"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056482"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:41.962Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:41.962Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3hgM4CHeTmWEllFchhBYFA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q3",
+  "ops": [
+    "Male",
+    "Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056483"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.048Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.048Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "RjRXIkTnTLKk9E5mSG+eQA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q4",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056484"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.140Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.140Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1vvtu1vwRgOrOBnE3Hhj8w==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q5",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056485"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.232Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.232Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8vjgLEr6T9aOn3LIjRGMgQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q6",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056486"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.321Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.321Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "mojussJLQ3qdV+ZEjKK56Q==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q7",
+  "ops": [
+    "Filipino",
+    "Non-Filipino"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056487"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.407Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.407Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0jGcezygQ+2H4a+pWn6nyg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q8",
+  "ops": [
+    "Single",
+    "Married",
+    "Living-in",
+    "Widowed",
+    "Separated",
+    "Divorced",
+    "Unknown"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056488"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.503Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.503Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "L+6aAg47T3+GF9bI3BeFzg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q9",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea056489"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.591Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.591Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "054uogXfT+SN0e+YGvjtqQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q10",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea05648a"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.682Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.682Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+nkVOCALT4CZpqUquPWPiA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q11",
+  "ops": [
+    "No education",
+    "Pre-school",
+    "Elementary level",
+    "Elementary graduate",
+    "High school level",
+    "High school graduate",
+    "Junior HS",
+    "Junior HS graduate",
+    "Senior HS level",
+    "Senior HS graduate",
+    "Vocational/Tech ",
+    "College level",
+    "College graduate",
+    "Post-graduate"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea05648b"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.772Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.772Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7OMihaMwQwC9/Ft6DB+5TQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q12",
+  "ops": [
+    "Yes, public",
+    "Yes, private",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea05648c"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.862Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.862Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "zYMpGHO4Qn6/9un4/XE3RQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q13",
+  "ops": [
+    "Pre-school",
+    "Elementary",
+    "Junior High School",
+    "Senior High School",
+    "Vocational/Technical",
+    "College/University"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380da3f15f8e4ea05648d"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:42.949Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:42.949Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Vfluzuo5SPyBe0Cs27lIUw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q14",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea05648e"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.031Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.031Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "d3HVDMFCQra21wg/9Q+vJg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q15",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea05648f"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.120Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.120Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "4NLj37tgRMutcjo85u9b1Q==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q16",
+  "ops": [
+    "Employment",
+    "Business",
+    "Remittance",
+    "Investments",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056490"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.206Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.206Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "F1Dkee18QSWGF7Byg3i3pw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q17",
+  "ops": [
+    "Permanent Work",
+    "Casual Work",
+    "Contractual Work",
+    "Individually Owned Business",
+    "Shared/Partnership Business",
+    "Corporate Business"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056491"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.287Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.287Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "qPo8NmaTTUiizQ66Rvcy1g==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q18",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056492"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.376Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.376Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Hs485lFrSu2WJJ28JU6+zw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q19",
+  "ops": [
+    "Public hospital",
+    "Private hospital",
+    "Lying-in clinic",
+    "Home",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056493"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.473Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.473Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Ugmmd+OYQSKNy80R+uJ3oQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q20",
+  "ops": [
+    "Doctor",
+    "Nurse",
+    "Midwife",
+    "Hilot",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056494"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.567Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.567Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "KFf1rJKKTdqTOpaChbfcjA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q21",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056495"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.657Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.657Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/FapOqT1SNmX711nnlekRg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q22",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056496"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.750Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.750Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wblxmPDLSDeaTAh8IolE8A==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q23",
+  "ops": [
+    "Female sterilization/Ligation",
+    "Male sterilization/Vasectomy",
+    "IUD",
+    "Injectables",
+    "Implants",
+    "Pill",
+    "Condom",
+    "Modern natural FP",
+    "Lactational Amenorrhea Method (LAM)",
+    "Traditional"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056497"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.839Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.839Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "YoWNe1J3SfSrwq7jjRwKvg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q24",
+  "ops": [
+    "Government hospital",
+    "RHU/Health center",
+    "Brgy. Health Station",
+    "Private hospital",
+    "Pharmacy",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380db3f15f8e4ea056498"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:43.924Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:43.924Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "L87uftVzTgiwm43V1sWEZQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q25",
+  "ops": [
+    "Yes",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea056499"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.018Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.018Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Splf2/eXQE+/enkNB/p6og==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q26",
+  "ops": [
+    "PhilHealth paying member",
+    "PhilHealth dependent of paying member",
+    "PhilHealth indigent member",
+    "PhilHealth dependent of indigent member",
+    "GSIS",
+    "SSS",
+    "Private/HMO",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649a"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.107Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.108Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "U7KOCxQfQ5ei9JqZp2rBQA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q27",
+  "ops": [
+    "Government hospital",
+    "RHU/Health center",
+    "Brgy. Health Station",
+    "Private hospital",
+    "Private clinic",
+    "Pharmacy",
+    "Hilot/Herbalist",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649b"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.213Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.213Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8BY93lUXTayxRCkX4CN6MA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q28",
+  "ops": [
+    "Sick/Injured",
+    "Prenatal/Postnatal",
+    "Gave birth",
+    "Dental",
+    "Medical check-up",
+    "Medical requirement",
+    "NHTS/CCT/4Ps requirement",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649c"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.304Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.304Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hlzNe2KfRWuZjh1Kb8Rgvw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q29",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649d"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.392Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.392Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wU2YHmDhQtC3oF7AXvq1WA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q30",
+  "ops": [
+    "Registered Solo parent",
+    "Non-Solo Parent",
+    "Unregistered Solo Parent"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649e"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.481Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.481Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "CMEFEFGtTFSeo05KsiqT9A==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q31",
+  "ops": [
+    "Yes",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea05649f"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.573Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.573Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "PB80HazqQIudmULX/6i+sg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q32",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea0564a0"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.665Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.665Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xugrA9nHRbmMhC7H2BtWOg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q33",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea0564a1"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.754Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.754Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "06hefLI6TjqxLXgE2QAaRA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q34",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea0564a2"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.846Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.846Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b7uDsYzARWmP2t+EOnf0MQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q35",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dc3f15f8e4ea0564a3"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:44.938Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:44.938Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "mPzDtu7OQOKDVu0inJAsvQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q36",
+  "ops": [
+    "Non-Migrant",
+    "Migrant",
+    "Transient"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a4"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.035Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.035Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "I5Hj5/JiSiS5fuLD0pKSkg==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q37",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a5"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.117Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.117Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "m6RK62cxRCCRLc5RGic/Sw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q38",
+  "ops": [
+    "Lack of employment",
+    "Perception of better income in other place",
+    "Schooling",
+    "Presence of relatives and friends in other place",
+    "Employment/Job Relocation",
+    "Disaster-related Relocation",
+    "Retirement",
+    "To live with Parents",
+    "To live with Children",
+    "Marriage",
+    "Annulment/Divorce/ Separation",
+    "Commuting-related Reasons",
+    "Health-related Reasons",
+    "Peace and Security",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a6"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.204Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.204Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b+8bbrPmRUmoGszUTUyCbA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q39",
+  "ops": [
+    "Yes",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a7"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.289Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.289Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "VUNn8GAiQgawjzqVGxmT8g==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q40",
+  "ops": [
+    "Availability of jobs",
+    "Higher wage",
+    "Presence of schools or universities",
+    "Presence of relatives and friends in other place",
+    "Housing",
+    "Others"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a8"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.373Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.374Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "qh/TVYmARx2btcn6EmZrmA==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q41",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564a9"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.465Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.465Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DQLRT3eWRBGdi02gdPCnbQ==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q42A",
+  "ops": [
+    "Yes",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564aa"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.559Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.560Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "amfKQr75TQ+w8cRFzanb1Q==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q42B",
+  "ops": [
+    "Yes",
+    "No"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564ab"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.654Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.654Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hiO/SYDdTVOhnrcP605Ygw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q43",
+  "ops": []
+},
+{
+  "_id": {
+    "$oid": "63e380dd3f15f8e4ea0564ac"
+  },
+  "created_at": {
+    "$date": "2023-02-08T11:00:45.748Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-08T11:00:45.749Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "QGK0tkaGSciCUN/LHN0xTw==",
+      "subType": "03"
+    }
+  },
+  "qid": "Q44",
+  "ops": [
+    "Refrigeration and Airconditioning",
+    "Automotive/Heavy Equipment Servicing",
+    "Metal Worker",
+    "Building Wiring Installation",
+    "Heavy Equipment Operation",
+    "Plumbing",
+    "Welding",
+    "Carpentry",
+    "Baking",
+    "Dressmaking",
+    "Linguist",
+    "Computer Graphics",
+    "Painting",
+    "Beauty Care",
+    "Commercial Cooking",
+    "Housekeeping",
+    "Massage Therapy",
+    "Others"
+  ]
+}]

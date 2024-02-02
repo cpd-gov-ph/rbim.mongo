@@ -1,0 +1,1927 @@
+[{
+  "_id": {
+    "$oid": "640c3f8b7d58734800e01c81"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-11T08:44:59.131Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:44:22.390Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "gnRe/gdNRSm2FQ3zetzszQ==",
+      "subType": "03"
+    }
+  },
+  "role": "superadmin",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Super Admin",
+  "email": "superadmin@yopmail.com",
+  "password": "pbkdf2_sha256$390000$HQkq3HMm0JdhTtRaMlzAoM$Heiztizxp8cDz91jg7Vq3dpz2MNRORiAf0Ue75Tjqpc=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-11T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640c41087d58734800e01c84"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-11T08:51:20.131Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-12T13:01:53.919Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "htikpTJGRaSA8Tv5JXAzLA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Barangay",
+  "email": "barangay@yopmail.com",
+  "password": "pbkdf2_sha256$390000$MPgRODM3fYlQaK8ttbOjCN$JRIcEqCElqFj89rm5lzO/fdcahDTF571QyTn8aTGcpc=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-11T00:00:00.000Z"
+  },
+  "reset_code": 952767,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640c41e37d58734800e01c87"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-11T08:54:59.226Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:12:59.480Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Reviewer",
+  "email": "datareviewer@yopmail.com",
+  "password": "pbkdf2_sha256$390000$Uh7kInk8Gh0GSlG6nPXphi$ZmnEvkaAMsyuskZjLKovQYs3rV2wJXtr8MpVijOtruE=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-11T00:00:00.000Z"
+  },
+  "reset_code": 876992,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640c428f7d58734800e01c8a"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-11T08:57:51.331Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:33:43.409Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Collector",
+  "email": "datacollector@yopmail.com",
+  "password": "pbkdf2_sha256$390000$rJ0jLPCidW7CygB1owAgNR$46Fb7N9JRksHq6L+bZ7BrqtBsRKoYmF2HjbBKO6LvkM=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-11T00:00:00.000Z"
+  },
+  "reset_code": 967731,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": "fuYLTj5zQq-dSUlLeW6h2a:APA91bGUH4IekyDAMF8MehqQX-W44PA7oWhdkOYdXpQCHVMsjXvVWJhhXZJhwacG8SjHqXWqhKenBu2rjAJCPzP9rnicVvIRKkFvTw7Ix4Haw4disOa79xQGGtNscIN2PY73i9LCwl6A",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640ebfbd4f36afa204171456"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-13T06:16:29.586Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-17T11:20:13.356Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZdhB+S99QaiTX7Xl+PbTMg==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "d6r5p+DtRCWFz4nmVZWS5w==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Test bar",
+  "email": "bo1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$lViwnaR5LJfsWDLu17WVIk$G1zrSsCcvzwqJJVTwjSoEmxC1D+9WNMjOCPPXOZMdE8=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-13T00:00:00.000Z"
+  },
+  "reset_code": 592078,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640ebfe53eea42177b58e516"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-13T06:17:09.728Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T07:25:44.154Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "AiLxFgZ5TFiu1Hwq1stoWQ==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ZdhB+S99QaiTX7Xl+PbTMg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "dc",
+  "email": "dr@yopmail.com",
+  "password": "pbkdf2_sha256$390000$bJWAF119kDwVkaYnD0eizt$dEwUp0c6v7SAXR9W6a6SUzLoTnGN+R9Ffmqa+694eEw=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-13T00:00:00.000Z"
+  },
+  "reset_code": 47709,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "640ec00f29ac8f5b49a869f8"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-13T06:17:51.938Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-13T07:40:46.100Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1UdkM/3vStOXobvGayChNA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ZdhB+S99QaiTX7Xl+PbTMg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "AiLxFgZ5TFiu1Hwq1stoWQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "coll",
+  "email": "dc1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$c2r77oyXZaKsvWwa8xd4YA$X8QlRxsP/62wRXoD7/xd/81uRaBGfF20Dr939HNqtl0=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-13T00:00:00.000Z"
+  },
+  "reset_code": 88739,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "641011f7b5cd1b22fd2b150d"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-14T06:19:35.078Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T08:29:44.011Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "jxnnF99sR2qb/xTM7ogvhQ==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "d6r5p+DtRCWFz4nmVZWS5w==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Mona reports",
+  "email": "reports@yopmail.com",
+  "password": "pbkdf2_sha256$390000$ub0juUF4F4of9QVBXw1hQO$y6nmUYTH5EydF934MKOwlpsuQIpMLnuyrbVBW2Nw9K4=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-14T00:00:00.000Z"
+  },
+  "reset_code": 427016,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6410121cbf204e6bce389b34"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-14T06:20:12.341Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T06:34:34.562Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZUgNINmCRpWpoDD5Q+2gLQ==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "jxnnF99sR2qb/xTM7ogvhQ==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "rep",
+  "email": "reports1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$kSZOfndZDrciC4bD0TVLce$kRnFW9Ri6uQjm7Ai+E0Zr9jj2hqTmswhDXM4mjFpMDA=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-14T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64101262bf204e6bce389b37"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-14T06:21:22.305Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T06:25:33.975Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bvnF6rCiQB+yDvdMe4lXwA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "jxnnF99sR2qb/xTM7ogvhQ==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "ZUgNINmCRpWpoDD5Q+2gLQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "repo",
+  "email": "reports2@yopmail.com",
+  "password": "pbkdf2_sha256$390000$ru1pGceNHNrTt468Xat7jm$ouF9WkRL/M69I88vozibL2+U4DAXQgH/Ldaj35E75G8=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-14T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": "eNrzZ3K8TVKBvaEy-NLROs:APA91bErXFd7_Nv7V0Bb3ydW7V06n5apJZQOKrPS-51aGkFoP5gXv7YNf-NKEchNakUCzSgaCoXrbnSILw-2H3RW4wLOc-krv61Z5GQ4oAk97io9wgke6OP6uAxw7YIxtb__z1rka7WT",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64117fbafef04b1a17433648"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-15T08:20:10.483Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-15T08:22:54.434Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "PcfbALSXTb62ra7lJnYAaw==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "htikpTJGRaSA8Tv5JXAzLA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Bharat Test",
+  "email": "BharatBO@yopmail.com",
+  "password": "pbkdf2_sha256$390000$ht6gXBMAezvUFiox6PP01g$s1a5IOce4gIFMFL01tVxfW+c+G/efOEWAVtENk1eXAM=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-15T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64117fe0bede6370a6053189"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-15T08:20:48.174Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-15T08:41:49.446Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7OKO/4RDTEeb8OtxYcDL5g==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "PcfbALSXTb62ra7lJnYAaw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Bharat DR",
+  "email": "bharatDR@yopmail.com",
+  "password": "pbkdf2_sha256$390000$AEv25ZTPOE5BPhd0AX9Soe$h8hSiGcDkn/VNuyqDo0YEass6WcplTtIpknJJoWU+dg=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-15T00:00:00.000Z"
+  },
+  "reset_code": 497821,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64118000bede6370a605318c"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-15T08:21:20.545Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-15T08:32:34.854Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "sYQlWhKsSOWGiaqeEKI/5w==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "PcfbALSXTb62ra7lJnYAaw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "7OKO/4RDTEeb8OtxYcDL5g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Bharat DC",
+  "email": "bharatDC@yopmail.com",
+  "password": "pbkdf2_sha256$390000$J90w3rtNwUVnU87D9lgVGI$11Wd7a98ncmZowbLu538u/bqM0J8ndD3ltUoF07aoQg=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-15T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": "e6A-oaxHTOWbH03UIZxyiH:APA91bH6avUPvQE7LPqB_M_bDwcXRzfEKN87b-8zTXJjpAskPku7peaxDDKYkO4vhfmjdo1-z0wZ6J4LxLKZpdMhYankV06teE2bentgxcCsuHykVfox6OZpb0HSjAY0rBwzFDA_WyGL",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6412f37887df01352ea45be6"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-16T10:46:16.108Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:11:51.156Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1bA0NrquRSiTXmKK8oVoAQ==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "janani",
+  "email": "janani@yopmail.com",
+  "password": "pbkdf2_sha256$390000$qcCy5yPUUPuOamlGVYmUF4$uOSa+Nyt/8RlFqVOnK5JL/gHHbJ8R81hcmZxjT2UoD0=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-16T00:00:00.000Z"
+  },
+  "reset_code": 923977,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": "fi1aanJxR2WoFy8uinCmxE:APA91bE3t74RgJ_L5xE1Xnb8KQ12AUmczWa8eTNgq_PwrUrtGVE_ffqQ7BuGe_yX5uCKtswPwmhVHNNb5B8dYLWpBLcvIEjm5qsZu5cesztY6FQZoGP2p4BwCcQ34PzKU_3UPyOI1bRk",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6418025e12e428c3a0603cf6"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-20T06:51:10.115Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:54:05.154Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ntgS4lKoQne6+diQtv2a5Q==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "htikpTJGRaSA8Tv5JXAzLA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "barangay",
+  "email": "barangay1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$Drl0q9nOqnG9wWCyXvK7af$TnNo/A/nYmYZg2Fugp4xK/bFql7CLollWtolEAnNGxo=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-20T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64180637593f2626ea7a9453"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-20T07:07:35.445Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:56:40.057Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "so9BPrzCR/S893ojm/V5EA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ntgS4lKoQne6+diQtv2a5Q==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Reviewer",
+  "email": "datareviewer1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$6AqpQQDVGIpV9Lly62XPpb$dDdLQZZZ+QSoO7oYEqHYaUUJgbxp9/XJezbZUizTrJQ=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-20T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64180f2468101aaf61eceb89"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-20T07:45:40.258Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:01:05.795Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Collector",
+  "email": "datacollector1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$l7RJIOraIy2oRUn7M9O1YG$5wfrm8WwUbXyYxHSXB7ks8Q88PO9FSLhi6uGtDuvLQA=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-20T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64195c80593f2626ea7a9627"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-21T07:28:00.564Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T07:29:08.575Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "UMk3XiiwTmCyoy/31nI2Xg==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "PCmYgWhuRe++CWEql4pIJQ==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "egmFHgzxSQu8KoPjx8BcjQ==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "Uk14Z53QToSuDWCVKF72gQ==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Jegan rajaiya",
+  "email": "jeganrajaiya@yopmail.com",
+  "password": "pbkdf2_sha256$390000$eeeQJLBXUkv3yzwrADdil9$jQ49M1e+y//hvGoZZUdxnE9s6sVhvxNSTMDYM9h2Obo=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "64195cd812e428c3a0603e66"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-21T07:29:28.909Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T07:29:28.909Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DEi9slQnRrKX7am6Puok+g==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Collector",
+  "email": "datacollector2@yopmail.com",
+  "password": "pbkdf2_sha256$390000$fqYVi5SoYXKxuThPSWihSV$pKpg8yeUWWFvvZ2QgTezN/3VW3+uzIngX2qoMhS6qnY=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6419704e12e428c3a0603e69"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-21T08:52:30.778Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:52:30.778Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ReFzaaRhRJiKQ/Xo9WUpGQ==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "htikpTJGRaSA8Tv5JXAzLA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Barangay",
+  "email": "barangay2@yopmail.com",
+  "password": "pbkdf2_sha256$390000$gwbRAsZeuEbkgnKsb616uF$z06WXElBs/TvvlyaNGnFtYabjVtZnQsCTtof5BP7OoM=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "641970c568101aaf61ecebca"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-21T08:54:29.265Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:54:29.265Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "4i4+cVssTCqvnJx/0t+vNw==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ntgS4lKoQne6+diQtv2a5Q==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Reviewer",
+  "email": "datareviewer2@yopmail.com",
+  "password": "pbkdf2_sha256$390000$B5OeCOEBDuUSVmNPdaHIZt$IlbLtjztVcj+ef6A/NmJ0YH+kwK99JtDxfReWeQBfz0=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6419716912e428c3a0603e6d"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-21T08:57:13.892Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T08:57:13.892Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1wgjc7W6SieZ+E0aFEvJbg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Collector",
+  "email": "datacollector3@yopmail.com",
+  "password": "pbkdf2_sha256$390000$DHEnPz28DV3aqGLHoWXIwV$R4hzzSbnDiNP9VowX7mC+9GEY5j4Yw7TXe926BrX8LM=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "641c0976e911a90de6369bd7"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-23T08:10:30.330Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:45:13.702Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "JOZbqV4QS72DQ7zMIUq3/A==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "VEQo1igiTBq9XO24pwacRg==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "8wZHQSHiRLu+snjLSMoGnA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "kFsIBDHMR/SrXJ/0dBzmsA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "newtestbarangay",
+  "email": "newtestbara@yopmail.com",
+  "password": "pbkdf2_sha256$390000$1uNoD7rvXoft9EkyK9luAw$f8WpxD6fKUYg2l9ffZq/MNWiXTFDeAf4e3XHwlF0w4A=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-23T00:00:00.000Z"
+  },
+  "reset_code": 415424,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "641c09ab77b2c435de8c46c2"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-23T08:11:23.275Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:42:06.289Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "IvN7BflHQkOCSXul9iV71Q==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "JOZbqV4QS72DQ7zMIUq3/A==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "newtestreviewer",
+  "email": "newtestreviewer@yopmail.com",
+  "password": "pbkdf2_sha256$390000$NyRzhE1QDKcaRxwd4oyfBt$Ucfwdte3ta+rwXeqgyBUyZExqp4vjqWLiwif9kutNtU=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-23T00:00:00.000Z"
+  },
+  "reset_code": 758876,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "641c09dde911a90de6369bda"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-23T08:12:13.324Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:35:32.743Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "AwEpQs4ERwyS86Pk6WrXRA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "JOZbqV4QS72DQ7zMIUq3/A==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "IvN7BflHQkOCSXul9iV71Q==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "newtestcollector",
+  "email": "newtestcollector@yopmail.com",
+  "password": "pbkdf2_sha256$390000$2yWHNWICSkA4NZ5knJnV4J$exILSSplbTKQHsmRDDHulzwjuNaF/5V3X3M705SLrMM=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-23T00:00:00.000Z"
+  },
+  "reset_code": 319196,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "642537b9f79c689202c7627d"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-03-30T07:18:17.466Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:45:45.142Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "FruO/mLXQ4CKNo6nYWYiZA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data Collector",
+  "email": "newdevcollector@yopmail.com",
+  "password": "pbkdf2_sha256$390000$zHgPh26chCDkdpiF4wQCj2$fuE4a6OzXc0b4iigX9O8mOUgJzsAfw0iepLMmHdj71o=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-03-30T00:00:00.000Z"
+  },
+  "reset_code": 157555,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": "fUDKRGkORhqCR4_tMwT8CW:APA91bFMqqA2Av-HwdDJ6yZ-A8Bvn2JydsPLH0qJQ-Cs6nWVOO3tsIhEtcEpFhyQokb-UQphmoir31hKJ9hwFBZYekVSdydYWq0Z0syV2p_-jG9o4aKr5cVOztA2fKYo-oEUP09fXRMP",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6434dc6d8c7d35c0fd7ddb46"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-11T04:05:01.596Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-11T04:10:13.332Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "MMUd42O3ROeaJMlPx8ggBw==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "reUl3EviT8uoUCBp+hjjAw==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "xZVpT36BRZW7WXkTO+whOQ==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "fw0WYwa0QDuFJbCvG5tl/w==",
+      "subType": "03"
+    }
+  },
+  "first_name": "April Test",
+  "email": "boapril@yopmail.com",
+  "password": "pbkdf2_sha256$390000$WyJkc3LuA4Dt2abZnCYai0$Cz8VquUZYubBMT92xrWjG7S+3J/XrEkRKMY1d7xWGHI=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "reset_code": 765121,
+  "is_reset_mail_send": true,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6434dcde8c7d35c0fd7ddb49"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-11T04:06:54.454Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-11T04:11:06.281Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wYM5RC0iSYO9BjBk5FGgxg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "MMUd42O3ROeaJMlPx8ggBw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "April Test BR",
+  "email": "drapril@yopmail.com",
+  "password": "pbkdf2_sha256$390000$M1ME11BQM9SyDG9Po6SkDj$UxwnYI734APv9deOMm8xTrr+ahUVfwiFkmBiLESXleA=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "reset_code": 571090,
+  "is_reset_mail_send": true,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6434dd516f9182550479992e"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-11T04:08:49.595Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-11T04:08:49.595Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/bvVOulIRY+63SqJ8VOmsg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "MMUd42O3ROeaJMlPx8ggBw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "wYM5RC0iSYO9BjBk5FGgxg==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "April Test DC",
+  "email": "datacollectorapril@yopmail.com",
+  "password": "pbkdf2_sha256$390000$ZjdlwKZhZH8bMo0qi9J9qJ$eU+ckJHwAzOVykTOp+lE6YlqShQb3rlbAzhUdWTbw/0=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6434de9c0f74bc4a4c2d5ad7"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-11T04:14:20.316Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:14:45.182Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vPack46ORTCNbVaslKQvQA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "MMUd42O3ROeaJMlPx8ggBw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "wYM5RC0iSYO9BjBk5FGgxg==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Data collector April",
+  "email": "dcaprill@yopmail.com",
+  "password": "pbkdf2_sha256$390000$wQhQO5wj276e6BVmdT0x6s$mPQlpFkL0Mr/VwFH+07spmOwTylYTTMqCVgtZ6oJiaQ=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6437bc8b6e0f03d50b2b80b6"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-13T08:25:47.690Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T08:25:47.690Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "RX6oXnKIQ0ukYlLV7Ndz8A==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "xlb2+zHKRRGXSrmFjtJVPA==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "p9GxkFmKSAG59Y0WoLyrzw==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "ibD0v8+SQ2K1iRGSGjxjVA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "barangaynewtesttoday",
+  "email": "baranewtestnow@yopmail.com",
+  "password": "pbkdf2_sha256$390000$70EfBzpmWq3EdqP4vyrSja$DepLmhtVxoySYOKzVyBwPpkNAwFCH5OpcsjOIqahUFk=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-13T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6437bcd53052e84cd0172a36"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-13T08:27:01.208Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T08:27:01.208Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dw/PMNX2TCilv0GgHW0DVQ==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ntgS4lKoQne6+diQtv2a5Q==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "reviewernew",
+  "email": "reviewtest@yopmail.com",
+  "password": "pbkdf2_sha256$390000$D0yZyotkmjxZbQU8tnOQGw$zLYJVQlQymFoG6BGNhCdm2no4eGSuNU2WznX3CsD+rw=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-13T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6437c9f470c7b45e815f0ce8"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-13T09:23:00.701Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:03:15.279Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ruiBoUnXSICC6oSy0m/ShA==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "NjoxfzdFS/2LnBBy1Y2zNQ==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "66w/cjI6R/Ovix4OBiFjuA==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "/loMyhtkS8yVpFnXfJsBqA==",
+      "subType": "03"
+    }
+  },
+  "first_name": "moorthy",
+  "email": "afg@yopmail.com",
+  "password": "pbkdf2_sha256$390000$VUx3PbuAECV6wrLWRgxCU6$eQjk6SonNacFjf0iGzvJTmwojmmjdFYxRLEZr0wKvxE=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-13T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6437db4f70c7b45e815f0ceb"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-13T10:37:03.889Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T10:37:03.889Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GlOl2nozTXmX3l3HDXUQTg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "jxnnF99sR2qb/xTM7ogvhQ==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "moorthy",
+  "email": "yo@yopmail.com",
+  "password": "pbkdf2_sha256$390000$LiLWMCRzN1EP1AiIRtHsUv$gZm+iGFGHkAhCf0iiJ79W4YwmmtwnlU+1VFOZZrddhI=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-13T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "6437df9fb9d689b12ce668a5"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-13T10:55:27.676Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T10:55:27.676Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3KeqjfIeRdqu21Tm2tpXxA==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "ZdhB+S99QaiTX7Xl+PbTMg==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "AiLxFgZ5TFiu1Hwq1stoWQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "moorthy",
+  "email": "yoa@yopmail.com",
+  "password": "pbkdf2_sha256$390000$FArXoffgjBihWfKgNusEGK$bwr2vUMkZPt0Fgljn4HfjZAeOEX37K/YxxxPDUCG/L4=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-13T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643cfa4e7c08b72113557124"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-17T07:50:38.501Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:09:59.300Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "fKENOUDjTje2vEQJMOdg8Q==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "mQh5WO/uTX+mPxh8ViSshg==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "IGOUu3bjQ3msDYVYuMqi+w==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Sha name off",
+  "email": "Shbb@yopmail.com",
+  "password": "pbkdf2_sha256$390000$kJ2KBtEQpjdca3Y5MSbRjA$TZ/2Z76u4f5pXHvFlM3w+hAdvXSCv+qxhx0uVLxJrhY=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "reset_code": 771246,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643cfabe93dd0ffe4bc2d530"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-17T07:52:30.425Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-24T07:55:25.215Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "role": "data_reviewer",
+  "barangay_id": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": null,
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Sha review",
+  "email": "Shr@yopmail.com",
+  "password": "pbkdf2_sha256$390000$o3zsaScrFI34IWIN10l0hz$vk2eyQOrGFKgLEYgqVX09XJokZMq6/SN5T/luMG/4Co=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "reset_code": 222192,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643cfb1093dd0ffe4bc2d533"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-17T07:53:52.248Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:38:01.525Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bnbz/c0YSMyJLzCcgamTvw==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "Karthik",
+  "email": "shc1@yopmail.com",
+  "password": "pbkdf2_sha256$390000$CMisqLaJvamaNGhGvvPHBV$1uCVlRRb6Y0LkOgpbbEZtpTpRS7lTytYzJSb1XwhvZQ=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "reset_code": 410956,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": "eP3Ul9V0QImrY8tLrbaY56:APA91bGLjrrvicntXnAmQjJi9rdAb6U1bT85ipsfvgDE_1DW8qJlnxgaOS0ixbA6u41r0OVccB3_puoUkN8UIEt2uXDjwseR7QNCnsHVrACeIUrsi8P56MYUfhYrV68vhNZXCokDVr9K",
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643d2bc6cf609473c2a71937"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-17T11:21:42.781Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:25:22.290Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "t+kgrF35TCKuykqhY77ACg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "testnew",
+  "email": "tn123@yopmail.com",
+  "password": "pbkdf2_sha256$390000$rUAIWLQY68i1KNn1ecIHem$cGdQE2j2CLlCMjcqpRyGh/0SJFQj+RaH/+bHcYOcbpw=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "reset_code": 140718,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643e796ce8fed3a7b385d293"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-18T11:05:16.767Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:05:16.767Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0qRDZN+IQ4GJBPXEDF/7pQ==",
+      "subType": "03"
+    }
+  },
+  "role": "barangay",
+  "barangay_id": null,
+  "data_reviewer_id": null,
+  "city_id": {
+    "$binary": {
+      "base64": "fKENOUDjTje2vEQJMOdg8Q==",
+      "subType": "03"
+    }
+  },
+  "location_id": {
+    "$binary": {
+      "base64": "mQh5WO/uTX+mPxh8ViSshg==",
+      "subType": "03"
+    }
+  },
+  "municipality_id": {
+    "$binary": {
+      "base64": "IGOUu3bjQ3msDYVYuMqi+w==",
+      "subType": "03"
+    }
+  },
+  "first_name": "Baran Name",
+  "email": "tb@yopmail.com",
+  "password": "pbkdf2_sha256$390000$NLuWpyqrn0i1VHRwgj2GvW$syzxu0dN1eWVxvoeSX/p44Nt0Py0U/Wsv3e42ybeeYo=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "reset_code": null,
+  "is_reset_mail_send": false,
+  "is_agree": 0,
+  "fcm_token": null,
+  "created_by": null
+},
+{
+  "_id": {
+    "$oid": "643e79d88cd96f12608ccce7"
+  },
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2023-04-18T11:07:04.299Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:15:13.648Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "M4b7YqdySgOf8iSeoqVbZg==",
+      "subType": "03"
+    }
+  },
+  "role": "data_collector",
+  "barangay_id": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  },
+  "data_reviewer_id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "city_id": null,
+  "location_id": null,
+  "municipality_id": null,
+  "first_name": "duplicate name",
+  "email": "t@yopmail.com",
+  "password": "pbkdf2_sha256$390000$rT5w1ABcgK0D60oG7nx7kj$ZUEzr3DPqQj7V16gBJ4Mbyr2hIcXO1zDxpe0LG6mobo=",
+  "is_active": true,
+  "last_login": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "reset_code": 446994,
+  "is_reset_mail_send": true,
+  "is_agree": 1,
+  "fcm_token": null,
+  "created_by": null
+}]

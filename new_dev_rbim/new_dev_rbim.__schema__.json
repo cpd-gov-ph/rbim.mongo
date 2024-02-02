@@ -1,0 +1,1291 @@
+[{
+  "_id": {
+    "$oid": "640c3c220f3551ccc6982842"
+  },
+  "name": "django_migrations",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 36
+  },
+  "fields": {
+    "app": {
+      "type_code": "string"
+    },
+    "applied": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c230f3551ccc69829f5"
+  },
+  "name": "django_content_type",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 29
+  },
+  "fields": {
+    "app_label": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "model": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c240f3551ccc6982de3"
+  },
+  "name": "auth_permission",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 116
+  },
+  "fields": {
+    "codename": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c250f3551ccc6982fd5"
+  },
+  "name": "auth_group",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c250f3551ccc69830f1"
+  },
+  "name": "auth_group_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "group_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "permission_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2a0f3551ccc6983cde"
+  },
+  "name": "rbim_users",
+  "fields": {
+    "barangay_id": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "created_by": {
+      "type_code": "string"
+    },
+    "data_reviewer_id": {
+      "type_code": "string"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "email": {
+      "type_code": "string"
+    },
+    "fcm_token": {
+      "type_code": null
+    },
+    "first_name": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_active": {
+      "type_code": "bool"
+    },
+    "is_agree": {
+      "type_code": "int"
+    },
+    "is_reset_mail_send": {
+      "type_code": "bool"
+    },
+    "is_superuser": {
+      "type_code": "bool"
+    },
+    "last_login": {
+      "type_code": "date"
+    },
+    "password": {
+      "type_code": "string"
+    },
+    "reset_code": {
+      "type_code": "int"
+    },
+    "role": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "city_id": {
+      "type_code": null
+    },
+    "location_id": {
+      "type_code": null
+    },
+    "municipality_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2a0f3551ccc6983e64"
+  },
+  "name": "rbim_answers",
+  "fields": {
+    "dtype": {
+      "type_code": "string"
+    },
+    "error_message": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_error": {
+      "type_code": "bool"
+    },
+    "keyboard_type": {
+      "type_code": "string"
+    },
+    "limitation": {
+      "type_code": "int"
+    },
+    "placeholder": {
+      "type_code": "string"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "ranking": {
+      "type_code": "int"
+    },
+    "show_dropdown_modal": {
+      "type_code": "bool"
+    },
+    "show_multi_dropdown_modal": {
+      "type_code": "bool"
+    },
+    "show_picker": {
+      "type_code": "bool"
+    },
+    "show_time_picker": {
+      "type_code": "bool"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2b0f3551ccc6983fcf"
+  },
+  "name": "rbim_censuscategory",
+  "fields": {
+    "category_name": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "page": {
+      "type_code": "int"
+    },
+    "part": {
+      "type_code": "string"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "census_member_id": {
+      "type_code": null
+    },
+    "survey_entry_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2b0f3551ccc6984146"
+  },
+  "name": "rbim_censusmember",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "member_id": {
+      "type_code": "int"
+    },
+    "member_name": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "survey_entry_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2c0f3551ccc6984252"
+  },
+  "name": "rbim_censusstaticcategory",
+  "fields": {
+    "category_name": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "page": {
+      "type_code": "int"
+    },
+    "part": {
+      "type_code": "string"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "survey_entry_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2c0f3551ccc69843df"
+  },
+  "name": "rbim_city",
+  "fields": {
+    "code": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "name": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2d0f3551ccc6984529"
+  },
+  "name": "rbim_options",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "meta_key": {
+      "type_code": "string"
+    },
+    "meta_value": {
+      "type_code": "string"
+    },
+    "title": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2d0f3551ccc698467d"
+  },
+  "name": "rbim_questions",
+  "fields": {
+    "answers": {
+      "type_code": "array"
+    },
+    "approved_date": {
+      "type_code": "date"
+    },
+    "category_id": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_approved": {
+      "type_code": "bool"
+    },
+    "is_deleted": {
+      "type_code": "int"
+    },
+    "is_read_only": {
+      "type_code": "bool"
+    },
+    "is_rejected": {
+      "type_code": "bool"
+    },
+    "is_required": {
+      "type_code": "bool"
+    },
+    "is_reviewed_by_barangay": {
+      "type_code": "bool"
+    },
+    "others_status": {
+      "type_code": "bool"
+    },
+    "part": {
+      "type_code": "string"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "qn_ranking": {
+      "type_code": "int"
+    },
+    "qno": {
+      "type_code": null
+    },
+    "question_id": {
+      "type_code": "string"
+    },
+    "reject_reason": {
+      "type_code": "string"
+    },
+    "rejected_date": {
+      "type_code": "date"
+    },
+    "section_id": {
+      "type_code": "string"
+    },
+    "survey_entry_id": {
+      "type_code": "string"
+    },
+    "title": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "is_qn_enable": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2e0f3551ccc69847df"
+  },
+  "name": "rbim_reportcategories",
+  "fields": {
+    "category_name": {
+      "type_code": "string"
+    },
+    "category_slug": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2e0f3551ccc698496b"
+  },
+  "name": "rbim_surveymaster",
+  "fields": {
+    "category_name": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "page": {
+      "type_code": "int"
+    },
+    "part": {
+      "type_code": "string"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2f0f3551ccc6984abb"
+  },
+  "name": "rbim_tasks",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "created_by": {
+      "type_code": "string"
+    },
+    "data_collector_id": {
+      "type_code": "string"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "description": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "task_no": {
+      "type_code": "int"
+    },
+    "title": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c2f0f3551ccc6984be0"
+  },
+  "name": "rbim_surveyentry",
+  "fields": {
+    "barangay_id": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "data_collector_id": {
+      "type_code": "string"
+    },
+    "data_collector_signature": {
+      "type_code": "string"
+    },
+    "data_reviewer_id": {
+      "type_code": "string"
+    },
+    "data_reviewer_signature": {
+      "type_code": "string"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "enable_recorrection_flag": {
+      "type_code": "bool"
+    },
+    "household_member_count": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_barangay_enable_rejected_flag": {
+      "type_code": null
+    },
+    "is_barangay_rejected": {
+      "type_code": null
+    },
+    "is_recorrection_members": {
+      "type_code": "bool"
+    },
+    "is_reviewer_enable_rejected_flag": {
+      "type_code": null
+    },
+    "is_reviewer_rejected": {
+      "type_code": null
+    },
+    "notes": {
+      "type_code": "string"
+    },
+    "pending_for_approval_on": {
+      "type_code": "date"
+    },
+    "rejected_by": {
+      "type_code": "string"
+    },
+    "reviewed_by_id": {
+      "type_code": "string"
+    },
+    "signature_recorrection_flag": {
+      "type_code": "bool"
+    },
+    "status": {
+      "type_code": "string"
+    },
+    "survey_assigned_on": {
+      "type_code": "date"
+    },
+    "survey_completed_on": {
+      "type_code": "date"
+    },
+    "survey_number": {
+      "type_code": "string"
+    },
+    "survey_recorrection_on": {
+      "type_code": "date"
+    },
+    "survey_rejected_on": {
+      "type_code": "date"
+    },
+    "survey_review_started_on": {
+      "type_code": "date"
+    },
+    "survey_review_submitted_on": {
+      "type_code": "date"
+    },
+    "survey_type": {
+      "type_code": "string"
+    },
+    "survey_verification_started_on": {
+      "type_code": "date"
+    },
+    "total_acount": {
+      "type_code": "int"
+    },
+    "total_qcount": {
+      "type_code": "int"
+    },
+    "total_rcount": {
+      "type_code": "int"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "verfied_by_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c300f3551ccc6984d12"
+  },
+  "name": "rbim_section",
+  "fields": {
+    "anscount": {
+      "type_code": "int"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_enable": {
+      "type_code": "bool"
+    },
+    "is_subheader": {
+      "type_code": "bool"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "qcount": {
+      "type_code": "int"
+    },
+    "questions": {
+      "type_code": "array"
+    },
+    "section_name": {
+      "type_code": "string"
+    },
+    "survey_master_id": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c300f3551ccc6984e3e"
+  },
+  "name": "rbim_reporthistory",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "meta_value": {
+      "type_code": "string"
+    },
+    "report_category_id": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "location_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c310f3551ccc6984fe2"
+  },
+  "name": "rbim_profile",
+  "fields": {
+    "address": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "created_by": {
+      "type_code": "string"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "dob": {
+      "type_code": "date"
+    },
+    "gender": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "official_number": {
+      "type_code": "string"
+    },
+    "phone_no": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "user_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c310f3551ccc698518d"
+  },
+  "name": "rbim_notificationhistory",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "email": {
+      "type_code": "string"
+    },
+    "email_message": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_clear": {
+      "type_code": "bool"
+    },
+    "is_seen": {
+      "type_code": "bool"
+    },
+    "is_sent_mail": {
+      "type_code": "bool"
+    },
+    "message": {
+      "type_code": "string"
+    },
+    "receiver_id": {
+      "type_code": "string"
+    },
+    "sender_id": {
+      "type_code": "string"
+    },
+    "title": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c320f3551ccc69852d8"
+  },
+  "name": "rbim_municipality",
+  "fields": {
+    "city_id": {
+      "type_code": "string"
+    },
+    "code": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "name": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c320f3551ccc69854cc"
+  },
+  "name": "rbim_location",
+  "fields": {
+    "code": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "municipality_id": {
+      "type_code": "string"
+    },
+    "name": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c330f3551ccc6985634"
+  },
+  "name": "rbim_censusstaticsections",
+  "fields": {
+    "anscount": {
+      "type_code": "int"
+    },
+    "approved_count": {
+      "type_code": "int"
+    },
+    "census_static_category_id": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_enable": {
+      "type_code": "bool"
+    },
+    "is_recorrection": {
+      "type_code": "bool"
+    },
+    "is_subheader": {
+      "type_code": "bool"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "qcount": {
+      "type_code": "int"
+    },
+    "questions": {
+      "type_code": "array"
+    },
+    "rejected_count": {
+      "type_code": "int"
+    },
+    "section_name": {
+      "type_code": "string"
+    },
+    "survey_entry_id": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c340f3551ccc6985850"
+  },
+  "name": "rbim_censussections",
+  "fields": {
+    "anscount": {
+      "type_code": "int"
+    },
+    "approved_count": {
+      "type_code": "int"
+    },
+    "census_category_id": {
+      "type_code": "string"
+    },
+    "census_member_id": {
+      "type_code": "string"
+    },
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "is_enable": {
+      "type_code": "bool"
+    },
+    "is_recorrection": {
+      "type_code": "bool"
+    },
+    "is_subheader": {
+      "type_code": "bool"
+    },
+    "position": {
+      "type_code": "int"
+    },
+    "qcount": {
+      "type_code": "int"
+    },
+    "questions": {
+      "type_code": "array"
+    },
+    "rejected_count": {
+      "type_code": "int"
+    },
+    "section_name": {
+      "type_code": "string"
+    },
+    "survey_entry_id": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c350f3551ccc6985c68"
+  },
+  "name": "rbim_users_groups",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "group_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "users_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c360f3551ccc6985ede"
+  },
+  "name": "rbim_users_user_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "long"
+    },
+    "permission_id": {
+      "type_code": "int"
+    },
+    "users_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3d0f3551ccc69872d9"
+  },
+  "name": "django_admin_log",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "action_flag": {
+      "type_code": "int"
+    },
+    "action_time": {
+      "type_code": "date"
+    },
+    "change_message": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "object_id": {
+      "type_code": "string"
+    },
+    "object_repr": {
+      "type_code": "string"
+    },
+    "user_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3e0f3551ccc69878a8"
+  },
+  "name": "authtoken_token",
+  "fields": {
+    "created": {
+      "type_code": "date"
+    },
+    "key": {
+      "type_code": "string"
+    },
+    "user_id": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c400f3551ccc6987bd9"
+  },
+  "name": "django_session",
+  "fields": {
+    "expire_date": {
+      "type_code": "date"
+    },
+    "session_data": {
+      "type_code": "string"
+    },
+    "session_key": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6410608fb5e42affc1ce8a73"
+  },
+  "name": "rbim_censusimages",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "image": {
+      "type_code": "string"
+    },
+    "survey_number": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "created_by_id": {
+      "type_code": null
+    },
+    "final_section": {
+      "type_code": null
+    },
+    "house_hold_member_section": {
+      "type_code": null
+    },
+    "initial_section": {
+      "type_code": null
+    },
+    "interview_section": {
+      "type_code": null
+    },
+    "process_complete": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64106090b5e42affc1ce8c73"
+  },
+  "name": "rbim_ocroptions",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "qid": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64106093b5e42affc1ce97fc"
+  },
+  "name": "rbim_censusimagesocrstatus",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "created_by_id": {
+      "type_code": "string"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "final_section": {
+      "type_code": "bool"
+    },
+    "house_hold_member_section": {
+      "type_code": "bool"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "initial_section": {
+      "type_code": "bool"
+    },
+    "interview_section": {
+      "type_code": "bool"
+    },
+    "process_complete": {
+      "type_code": "bool"
+    },
+    "survey_number": {
+      "type_code": "string"
+    },
+    "updated_at": {
+      "type_code": "date"
+    },
+    "survey_entry_id": {
+      "type_code": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64106093b5e42affc1ce9938"
+  },
+  "name": "rbim_censusuploadedimages",
+  "fields": {
+    "id": {
+      "type_code": "string"
+    },
+    "image": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64106095b5e42affc1cea06c"
+  },
+  "name": "rbim_ocrmaster",
+  "fields": {
+    "created_at": {
+      "type_code": "date"
+    },
+    "deleted_at": {
+      "type_code": "date"
+    },
+    "final_section": {
+      "type_code": "bool"
+    },
+    "house_hold_member_section": {
+      "type_code": "bool"
+    },
+    "id": {
+      "type_code": "string"
+    },
+    "initial_section": {
+      "type_code": "bool"
+    },
+    "interview_section": {
+      "type_code": "bool"
+    },
+    "process_complete": {
+      "type_code": "bool"
+    },
+    "updated_at": {
+      "type_code": "date"
+    }
+  }
+}]

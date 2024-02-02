@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "636ded5ded522203c38c70d6"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:36:13.181Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:36:13.181Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZE+YDDz4S5qm8OHKZXjWug==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "636ded83ed522203c38c70d7"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:36:51.258Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:36:51.258Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "cWmzRrVYRl+BuehcY6C/Cg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "636ded92ed522203c38c70d8"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:37:06.189Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:37:06.189Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oY/SRxr1Q6mr/1jUB/1i+w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "636deda1ed522203c38c70d9"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:37:21.349Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:37:21.349Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "65t9XWt7T8CWPwCqd/bCZA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "636deddeed522203c38c70da"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:38:22.452Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:38:22.452Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hlVkxmx6SICLC1Sof6p0eg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Demographic Characteristics",
+  "part": "house_hold_member_section",
+  "position": 5,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "636dedf4ed522203c38c70db"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:38:44.262Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:38:44.262Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+6u3SH2LTtWqeSmUV1Ki/w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Demographic Characteristics",
+  "part": "house_hold_member_section",
+  "position": 6,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "636dee02ed522203c38c70dc"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:38:58.739Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:38:58.739Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6+drKBZoS9Cdl8bX209ksA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Economic Activity",
+  "part": "house_hold_member_section",
+  "position": 7,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "636dee10ed522203c38c70dd"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:39:12.501Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:39:12.501Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZG/EvU3KR5KtVelqSlx7Pg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Health Information",
+  "part": "house_hold_member_section",
+  "position": 8,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "636def50ed522203c38c70de"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:44:32.461Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:44:32.461Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dvzvG5JlRmmDm74wFtjQEQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Health Information",
+  "part": "house_hold_member_section",
+  "position": 9,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "636def5ced522203c38c70df"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:44:44.774Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:44:44.774Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Q0TC44g6Rsy7+plV/SAxsw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "D. Socio-Civic Participation",
+  "part": "house_hold_member_section",
+  "position": 10,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "636def76ed522203c38c70e0"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:45:10.161Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:45:10.161Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "M3lhoLlEQzS22a5ZBRXGTQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "E. Migration Information",
+  "part": "house_hold_member_section",
+  "position": 11,
+  "page": 5
+},
+{
+  "_id": {
+    "$oid": "636def8aed522203c38c70e1"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:45:30.243Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:45:30.244Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "o9kD+/waT7uwJAXchVaV/A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "E. Migration Information",
+  "part": "house_hold_member_section",
+  "position": 12,
+  "page": 6
+},
+{
+  "_id": {
+    "$oid": "636df03ced522203c38c70e2"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:48:28.865Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:48:28.865Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "RyoU4yqAQLevShLiUkhsPA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "F. Community Tax Certificate",
+  "part": "house_hold_member_section",
+  "position": 13,
+  "page": 6
+},
+{
+  "_id": {
+    "$oid": "636df045ed522203c38c70e3"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:48:37.679Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:48:37.679Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "PH5ennzNR3afCOFO3cEVtA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "G. Skill Development",
+  "part": "house_hold_member_section",
+  "position": 14,
+  "page": 6
+},
+{
+  "_id": {
+    "$oid": "636df0b2ed522203c38c70e4"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:50:26.385Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:50:26.385Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "r0wgRuMTSFqXbbY0d1gCkA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "636df0c9ed522203c38c70e5"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:50:48.941Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:50:48.941Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "77KmKaMqT3SP6+vo5Z4jgA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "636df0cced522203c38c70e6"
+  },
+  "created_at": {
+    "$date": "2022-11-11T06:50:52.234Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-11T06:50:52.234Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+p9Ue0YXQ/i/Viltb+qBmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+}]

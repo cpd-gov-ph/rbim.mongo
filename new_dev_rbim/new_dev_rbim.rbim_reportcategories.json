@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "63f7572951023b61ac8fbd83"
+  },
+  "id": {
+    "$binary": {
+      "base64": "IOZMIxnTTIewFnXCRI1mJg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Distribution of Total Population by Age and Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:08:09.577Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:08:09.577Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_total_population_by_age"
+},
+{
+  "_id": {
+    "$oid": "63f7575051023b61ac8fbd85"
+  },
+  "id": {
+    "$binary": {
+      "base64": "t5V/tlEnTkq0xc8a7e+wow==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Distribution of Households by Household Size and HH Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:08:48.413Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:08:48.413Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_households_by_HH_size"
+},
+{
+  "_id": {
+    "$oid": "63f7578251023b61ac8fbd86"
+  },
+  "id": {
+    "$binary": {
+      "base64": "d1zWhWxzRmKOpAaqQOd9Bw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Distribution of Total Population by Highest Educational Attainment and Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:09:38.576Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:09:38.576Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_highest_education"
+},
+{
+  "_id": {
+    "$oid": "63f7579451023b61ac8fbd87"
+  },
+  "id": {
+    "$binary": {
+      "base64": "eAHpvAhdRMehmWOCvBSTag==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Marital Status of the Total Population by Age",
+  "created_at": {
+    "$date": "2023-02-23T12:09:56.861Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:09:56.861Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_marital_status_by_age"
+},
+{
+  "_id": {
+    "$oid": "63f757a151023b61ac8fbd88"
+  },
+  "id": {
+    "$binary": {
+      "base64": "nQv1VdspS7eTxMsmb4htjw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Marital Status of the Total Population by Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:10:09.978Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:10:09.978Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_marital_status_by_gender"
+},
+{
+  "_id": {
+    "$oid": "63f757b551023b61ac8fbd89"
+  },
+  "id": {
+    "$binary": {
+      "base64": "Z+sMta8FTrOBEvq9gtdfzw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Religious Affiliation of the Total Population by Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:10:29.613Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:10:29.613Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_religious_affliation"
+},
+{
+  "_id": {
+    "$oid": "63f757c451023b61ac8fbd8a"
+  },
+  "id": {
+    "$binary": {
+      "base64": "LY9N9GLkSFG0diURLI10PA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Ethnic Grouping of Total Population by Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:10:44.197Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:10:44.197Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_ethnic_grouping"
+},
+{
+  "_id": {
+    "$oid": "63f757d551023b61ac8fbd8b"
+  },
+  "id": {
+    "$binary": {
+      "base64": "aC/GNEhQTNCSc3Ivt/7h0A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Monthly Income of the Total Population (15+) by Age and Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:11:01.026Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:11:01.026Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_monthly_income"
+},
+{
+  "_id": {
+    "$oid": "63f759f251023b61ac8fbd8e"
+  },
+  "id": {
+    "$binary": {
+      "base64": "/aWd42O5SVKmc0omrBUlUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Major Source of Income of the Total Population (15+) by Age and Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:20:02.446Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:20:02.446Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_source_of_income"
+},
+{
+  "_id": {
+    "$oid": "63f75a3351023b61ac8fbd8f"
+  },
+  "id": {
+    "$binary": {
+      "base64": "kOvgzAIkTeuZKHdzQizk6Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Status of Work/ Business of the Total Population (15+) by Age and Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:21:07.859Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:21:07.859Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_status_of_work"
+},
+{
+  "_id": {
+    "$oid": "63f75a6751023b61ac8fbd90"
+  },
+  "id": {
+    "$binary": {
+      "base64": "4e/SAAbJTGe/MF7FqCGg/Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Place of Delivery of Population by Sex (Age 0-11)",
+  "created_at": {
+    "$date": "2023-02-23T12:21:59.043Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:21:59.043Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_place_of_delivery"
+},
+{
+  "_id": {
+    "$oid": "63f75a8b51023b61ac8fbd91"
+  },
+  "id": {
+    "$binary": {
+      "base64": "IEesA7q6S6ymnMChb3kc7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Birth Attendant of Population by Sex (Age 0-11)",
+  "created_at": {
+    "$date": "2023-02-23T12:22:35.584Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:22:35.584Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_birth_attendant"
+},
+{
+  "_id": {
+    "$oid": "63f75aac51023b61ac8fbd92"
+  },
+  "id": {
+    "$binary": {
+      "base64": "Wzb65rPEQKOZ5F9fInC5EA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Immunization of Population by Sex",
+  "created_at": {
+    "$date": "2023-02-23T12:23:08.649Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:23:08.649Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_immunization"
+},
+{
+  "_id": {
+    "$oid": "63f75ae251023b61ac8fbd93"
+  },
+  "id": {
+    "$binary": {
+      "base64": "d39a+9AgSnaDx/dRbiSCfQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Pregnancies of Population (Women 10-54) by Age and  Gravida",
+  "created_at": {
+    "$date": "2023-02-23T12:24:02.126Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:24:02.126Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_no_of_pregnancies"
+},
+{
+  "_id": {
+    "$oid": "63f75b0d51023b61ac8fbd94"
+  },
+  "id": {
+    "$binary": {
+      "base64": "bAtWmU0kRAedgdpwjZ0Jgg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Currently Enrolled by Age, Sex and School Level",
+  "created_at": {
+    "$date": "2023-02-23T12:24:45.783Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:24:45.783Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_school_level"
+},
+{
+  "_id": {
+    "$oid": "63f75b1b51023b61ac8fbd95"
+  },
+  "id": {
+    "$binary": {
+      "base64": "wWheviTUSk6WBGHTEWb1UQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Currently Enrolled by Age, Sex and School Type",
+  "created_at": {
+    "$date": "2023-02-23T12:24:59.158Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:24:59.158Z"
+  },
+  "deleted_at": null,
+  "category_slug": "bar_school_type"
+},
+{
+  "_id": {
+    "$oid": "63f75b4551023b61ac8fbd96"
+  },
+  "id": {
+    "$binary": {
+      "base64": "zBVTp0gNSDCduQVCbBIwSw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Common Disease Caused Death in the Barangay",
+  "created_at": {
+    "$date": "2023-02-23T12:25:41.015Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:25:41.015Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_common_disease"
+},
+{
+  "_id": {
+    "$oid": "63f75b5d51023b61ac8fbd97"
+  },
+  "id": {
+    "$binary": {
+      "base64": "GCRDDjJCTQS0BP1aMYpRDA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Primary Needs in the Barangay",
+  "created_at": {
+    "$date": "2023-02-23T12:26:05.128Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-23T12:26:05.128Z"
+  },
+  "deleted_at": null,
+  "category_slug": "pie_primary_needs"
+}]

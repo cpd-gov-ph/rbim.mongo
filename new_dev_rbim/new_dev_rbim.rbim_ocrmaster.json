@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "6413fa0391b35ad5947cc038"
+  },
+  "created_at": {
+    "$date": "2023-03-17T05:26:27.156Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-17T05:26:27.156Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xTG1xAmZTCGHbFuUZoRyLg==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "AiLxFgZ5TFiu1Hwq1stoWQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ACAUKJZhTz2Z1Sp6XxMwNg==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_4321_new_survey_number.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_174957.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175153.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175304.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175323.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175349.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175421.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175454.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175542.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_20230222_175555.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/2a7a5f133036_1679030785_IMG_20230222_175031_1.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437e697b9d689b12ce668a9"
+  },
+  "created_at": {
+    "$date": "2023-04-13T11:25:11.176Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T11:25:11.176Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "747CaXtbRjq/UPvZ389xpQ==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Tvei8ZdiQN6dx1aIui/jJA==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5688ba2fe324_1681385109_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437f132b3cdf2481d3a378f"
+  },
+  "created_at": {
+    "$date": "2023-04-13T12:10:26.902Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T12:10:26.902Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ENg6PUwXQt+RJYjvnl++hA==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ifwFGlGoTIqNbFUKE1f4qw==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/550a1357f8ab_1681387825_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437f2aac8aed6bf9368e5fc"
+  },
+  "created_at": {
+    "$date": "2023-04-13T12:16:42.326Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T12:16:42.326Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "uT/Xov0XT3i6vCJdAzJoaw==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gHPwKFJeSwSi6U6545gJog==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": false,
+  "house_hold_member_section": false,
+  "final_section": false,
+  "process_complete": false,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/4eb9e39809a2_1681388201_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437f363c8aed6bf9368e5fe"
+  },
+  "created_at": {
+    "$date": "2023-04-13T12:19:47.400Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T12:19:47.401Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "cuLky7y/R4eNm2/N/dzzmQ==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rxf3L7O0TyGd6BQVmyB/AQ==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": false,
+  "house_hold_member_section": false,
+  "final_section": false,
+  "process_complete": false,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/14159b207f01_1681388386_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437f5139ed8ab04d1629b90"
+  },
+  "created_at": {
+    "$date": "2023-04-13T12:26:59.827Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T12:26:59.828Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "WDv+O3UWTdeOh6E3gmnAyw==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "n9PEyJ2yTZ2hGH9few1CsQ==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": false,
+  "house_hold_member_section": false,
+  "final_section": false,
+  "process_complete": false,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/7f5f7b0d42b1_1681388816_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6437f5979f6b931ab590a936"
+  },
+  "created_at": {
+    "$date": "2023-04-13T12:29:11.656Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-13T12:29:11.656Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wbMIQIUkRm2akRmgBD3N3g==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "4XBsdU39SsSHtdA/G/Hyrg==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/d03f1bf1f2ae_1681388948_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "643e7ef9a0f53b72c01a299d"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:28:57.643Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:28:57.643Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "AFsXSf9wT6aL6Wv0OoCXww==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "SqtXnE56QjOq2YZUsfNN5Q==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_174957.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175153.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175304.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175323.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175349.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175421.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175454.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175520.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175542.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_20230222_175555.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/8654b1f34de5_1681817336_IMG_20230222_175031_1.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "643f881d7f15afa339bdd673"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:13.983Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:13.983Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "UMd7wZUtSFezF2CIzVPYXg==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/664ca7927a44_1681885212_RBIM_page_11.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "643f93a5d8ca6138706eedc7"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:25.881Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:25.881Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/kZ8Pr90QNOlsT4TtdNGgA==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "hdUkCxXeQauupQGeQBE3SQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_174957.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175153.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175304.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175323.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175349.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175421.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175454.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175520.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175542.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_20230222_175555.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/93bb5e919f2d_1681888164_IMG_20230222_175031_1.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "643fbd197f15afa339bdd70d"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:17.681Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:17.681Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wuF/mR7ETqKHMrruxKATaA==",
+      "subType": "03"
+    }
+  },
+  "created_by_id": {
+    "$binary": {
+      "base64": "SoqMhCh7SvSMmmump+Yh/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "initial_section": true,
+  "interview_section": true,
+  "house_hold_member_section": true,
+  "final_section": true,
+  "process_complete": true,
+  "ocr_images": [
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_1.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_2.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_3.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_4.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_5.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_6.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_7.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_8.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_9.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_10.jpg",
+    "https://rbim-dev-media.s3.amazonaws.com/media/5fb5bd147420_1681898776_RBIM_page_11.jpg"
+  ]
+}]

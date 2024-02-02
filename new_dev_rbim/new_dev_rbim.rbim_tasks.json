@@ -1,0 +1,829 @@
+[{
+  "_id": {
+    "$oid": "6416d2bc9dd77a927ef711e7"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:15:40.710Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:15:41.016Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oY1Ym/paRIOUcD/K4w4F2w==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d2c89dd77a927ef711e8"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:15:52.111Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:15:52.593Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "q7yru52TRhKZTUfF2gp9Bw==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 2,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d2cc9dd77a927ef711e9"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:15:55.834Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:15:56.120Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "BVOhXfgMS9+wLMMBSSyc0w==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 3,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3b19dd77a927ef711ea"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:19:45.405Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:19:45.700Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "UEjd9pckSHmVZUmPs4GdpQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 4,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3ba9dd77a927ef711eb"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:19:54.585Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:19:54.845Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2pWuJp7yRgSR7yvtG8szmQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 5,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3c19dd77a927ef711ec"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:20:01.361Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:20:01.587Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "QC7b7o9KRqSap6r+3PhUTg==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 6,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3c59dd77a927ef711ed"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:20:05.062Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:20:05.305Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "nsI0JrEQTraHWSqLB0gCqw==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 7,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3d99dd77a927ef711ee"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:20:25.164Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:20:25.381Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "O5tmHF3fSrC8CHV5QdIznA==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 8,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3f99dd77a927ef711ef"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:20:57.486Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:20:57.715Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6bSMbnr7Ss+hH2/ZDEvRLg==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 9,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d3fe9dd77a927ef711f0"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:21:01.811Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:21:02.183Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GhIiqXw9TJK7ebWm84i4Ew==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 10,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d4039dd77a927ef711f1"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:21:06.822Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-19T09:21:07.121Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "88mhyilST8uPZQwBxvh+Cg==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 11,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6416d4069dd77a927ef711f2"
+  },
+  "created_at": {
+    "$date": "2023-03-19T09:21:10.229Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-30T10:05:48.486Z"
+  },
+  "deleted_at": {
+    "$date": "2023-03-21T00:00:00.000Z"
+  },
+  "id": {
+    "$binary": {
+      "base64": "Z8EH+WsIQwOURWqDFPfPEA==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 12,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "wj+YImDFQbG3S6P0vJ+b1g==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6418132468101aaf61eceb8f"
+  },
+  "created_at": {
+    "$date": "2023-03-20T08:02:44.387Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T08:02:44.426Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "lnzcq2xWTV66eT0T6ujb3Q==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64181329593f2626ea7a95ed"
+  },
+  "created_at": {
+    "$date": "2023-03-20T08:02:49.766Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T08:02:49.777Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "q0YtIQccQ2mydMsMDIr3Bg==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 2,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64198b6d593f2626ea7a9632"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:48:13.313Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:48:13.330Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "N+tWrqOkT+OejgW/iMBDOw==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 3,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64198b7668101aaf61ecebd5"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:48:22.711Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:48:22.736Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Abd7esZCTVeHUCVz5OlS3w==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 4,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64198b79593f2626ea7a9633"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:48:25.826Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:48:25.838Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "jd67ebTzSC2ogPavbFlNnQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 5,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64198b7b593f2626ea7a9634"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:48:27.718Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:48:27.730Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "io5ZoI84QqenXhdI5EPlYQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 6,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "641c0c25ab94e6befe370276"
+  },
+  "created_at": {
+    "$date": "2023-03-23T08:21:57.714Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-23T08:21:57.766Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vglOJpt7S7mIqE5yJhEjmQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "1wgjc7W6SieZ+E0aFEvJbg==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "Bani",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64255ae9d88b2b2282d16f26"
+  },
+  "created_at": {
+    "$date": "2023-03-30T09:48:25.309Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-30T09:48:25.582Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xW7aI9dFSoOFZMtJ/1gPaQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "ahcNEPF2SrqIsWTKciz+8w==",
+      "subType": "03"
+    }
+  },
+  "task_no": 13,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64255b6422342a7b9355f9b5"
+  },
+  "created_at": {
+    "$date": "2023-03-30T09:50:27.823Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-30T09:50:28.067Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "l7jR3O98RgiPkAOZ97sA7g==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "D5WlCvB+T764YNNhQ7EAzw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 7,
+  "title": "Today task",
+  "description": "today task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "642561cc2c8cd132ae478014"
+  },
+  "created_at": {
+    "$date": "2023-03-30T10:17:48.695Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-30T10:17:48.740Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "O2+XIs+KSBm4aJnnn+4uvw==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "FruO/mLXQ4CKNo6nYWYiZA==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "adyar",
+  "description": "task assigned",
+  "created_by": {
+    "$binary": {
+      "base64": "g+QfXtDtRC6zpOKnXCNZVg==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "643d29db106d624a2a79544b"
+  },
+  "created_at": {
+    "$date": "2023-04-17T11:13:31.146Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:13:41.358Z"
+  },
+  "deleted_at": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "id": {
+    "$binary": {
+      "base64": "0xehKQapSfyJiD4EJrzx3w==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "bnbz/c0YSMyJLzCcgamTvw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "Chennai",
+  "description": "Adyar\nPorur",
+  "created_by": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "643d29f5cf609473c2a71935"
+  },
+  "created_at": {
+    "$date": "2023-04-17T11:13:57.259Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T11:13:57.270Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3X8zngwHS0eS5aLKva91rQ==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "bnbz/c0YSMyJLzCcgamTvw==",
+      "subType": "03"
+    }
+  },
+  "task_no": 2,
+  "title": "Chennai",
+  "description": "Adyar",
+  "created_by": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "643e7bf1e8fed3a7b385d297"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:16:01.958Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:16:01.978Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ufZgcS2VRVyqxc230FUQjg==",
+      "subType": "03"
+    }
+  },
+  "data_collector_id": {
+    "$binary": {
+      "base64": "M4b7YqdySgOf8iSeoqVbZg==",
+      "subType": "03"
+    }
+  },
+  "task_no": 1,
+  "title": "DGL",
+  "description": "ABC\n123\nADsf93jf3()33=",
+  "created_by": {
+    "$binary": {
+      "base64": "vvXxxRtWTs6qE3bUxfW6Xw==",
+      "subType": "03"
+    }
+  }
+}]

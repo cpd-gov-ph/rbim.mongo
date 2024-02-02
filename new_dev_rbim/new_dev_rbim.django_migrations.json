@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "640c3c23f8ec5a64f3fe9bf8"
+  },
+  "id": 1,
+  "app": "contenttypes",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:27.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c23f8ec5a64f3fe9bf9"
+  },
+  "id": 2,
+  "app": "contenttypes",
+  "name": "0002_remove_content_type_name",
+  "applied": {
+    "$date": "2023-03-11T08:30:27.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c26f8ec5a64f3fe9bfa"
+  },
+  "id": 3,
+  "app": "auth",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:30.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c27f8ec5a64f3fe9bfb"
+  },
+  "id": 4,
+  "app": "auth",
+  "name": "0002_alter_permission_name_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:30.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c27f8ec5a64f3fe9bfc"
+  },
+  "id": 5,
+  "app": "auth",
+  "name": "0003_alter_user_email_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:31.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c27f8ec5a64f3fe9bfd"
+  },
+  "id": 6,
+  "app": "auth",
+  "name": "0004_alter_user_username_opts",
+  "applied": {
+    "$date": "2023-03-11T08:30:31.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c27f8ec5a64f3fe9bfe"
+  },
+  "id": 7,
+  "app": "auth",
+  "name": "0005_alter_user_last_login_null",
+  "applied": {
+    "$date": "2023-03-11T08:30:31.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c28f8ec5a64f3fe9bff"
+  },
+  "id": 8,
+  "app": "auth",
+  "name": "0006_require_contenttypes_0002",
+  "applied": {
+    "$date": "2023-03-11T08:30:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c28f8ec5a64f3fe9c00"
+  },
+  "id": 9,
+  "app": "auth",
+  "name": "0007_alter_validators_add_error_messages",
+  "applied": {
+    "$date": "2023-03-11T08:30:32.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c28f8ec5a64f3fe9c01"
+  },
+  "id": 10,
+  "app": "auth",
+  "name": "0008_alter_user_username_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:32.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c28f8ec5a64f3fe9c02"
+  },
+  "id": 11,
+  "app": "auth",
+  "name": "0009_alter_user_last_name_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:32.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c29f8ec5a64f3fe9c03"
+  },
+  "id": 12,
+  "app": "auth",
+  "name": "0010_alter_group_name_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:33.050Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c29f8ec5a64f3fe9c04"
+  },
+  "id": 13,
+  "app": "auth",
+  "name": "0011_update_proxy_permissions",
+  "applied": {
+    "$date": "2023-03-11T08:30:33.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c29f8ec5a64f3fe9c05"
+  },
+  "id": 14,
+  "app": "auth",
+  "name": "0012_alter_user_first_name_max_length",
+  "applied": {
+    "$date": "2023-03-11T08:30:33.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3cf8ec5a64f3fe9c06"
+  },
+  "id": 15,
+  "app": "rbim",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:52.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3df8ec5a64f3fe9c07"
+  },
+  "id": 16,
+  "app": "admin",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:53.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3df8ec5a64f3fe9c08"
+  },
+  "id": 17,
+  "app": "admin",
+  "name": "0002_logentry_remove_auto_add",
+  "applied": {
+    "$date": "2023-03-11T08:30:53.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3ef8ec5a64f3fe9c09"
+  },
+  "id": 18,
+  "app": "admin",
+  "name": "0003_logentry_add_action_flag_choices",
+  "applied": {
+    "$date": "2023-03-11T08:30:53.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3ef8ec5a64f3fe9c0a"
+  },
+  "id": 19,
+  "app": "authtoken",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:54.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3ff8ec5a64f3fe9c0b"
+  },
+  "id": 20,
+  "app": "authtoken",
+  "name": "0002_auto_20160226_1747",
+  "applied": {
+    "$date": "2023-03-11T08:30:55.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c3ff8ec5a64f3fe9c0c"
+  },
+  "id": 21,
+  "app": "authtoken",
+  "name": "0003_tokenproxy",
+  "applied": {
+    "$date": "2023-03-11T08:30:55.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "640c3c40f8ec5a64f3fe9c0d"
+  },
+  "id": 22,
+  "app": "sessions",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-03-11T08:30:56.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410608f27bc14c0e5b8646d"
+  },
+  "id": 23,
+  "app": "rbim",
+  "name": "0002_censusimages",
+  "applied": {
+    "$date": "2023-03-14T11:54:55.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609027bc14c0e5b8646e"
+  },
+  "id": 24,
+  "app": "rbim",
+  "name": "0003_ocroptions",
+  "applied": {
+    "$date": "2023-03-14T11:54:56.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609327bc14c0e5b8646f"
+  },
+  "id": 25,
+  "app": "rbim",
+  "name": "0004_censusimages_created_by_censusimages_final_section_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:54:58.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609427bc14c0e5b86470"
+  },
+  "id": 26,
+  "app": "rbim",
+  "name": "0005_censusimagesocrstatus_censusuploadedimages_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:55:00.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609527bc14c0e5b86471"
+  },
+  "id": 27,
+  "app": "rbim",
+  "name": "0006_remove_censusuploadedimages_survey_status_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:55:01.402Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609627bc14c0e5b86472"
+  },
+  "id": 28,
+  "app": "rbim",
+  "name": "0007_ocrmaster_remove_censusuploadedimages_survey_entry_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:55:02.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609727bc14c0e5b86473"
+  },
+  "id": 29,
+  "app": "rbim",
+  "name": "0008_surveyentry_is_open_ndividual_view_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:55:03.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609827bc14c0e5b86474"
+  },
+  "id": 30,
+  "app": "rbim",
+  "name": "0009_reportcategories_reporthistory_and_more",
+  "applied": {
+    "$date": "2023-03-14T11:55:04.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609827bc14c0e5b86475"
+  },
+  "id": 31,
+  "app": "rbim",
+  "name": "0010_reporthistory_excel_constant",
+  "applied": {
+    "$date": "2023-03-14T11:55:04.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609827bc14c0e5b86476"
+  },
+  "id": 32,
+  "app": "rbim",
+  "name": "0011_reporthistory_excel_unique_constant",
+  "applied": {
+    "$date": "2023-03-14T11:55:04.855Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609927bc14c0e5b86477"
+  },
+  "id": 33,
+  "app": "rbim",
+  "name": "0012_remove_reporthistory_excel_unique_constant",
+  "applied": {
+    "$date": "2023-03-14T11:55:05.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6410609927bc14c0e5b86478"
+  },
+  "id": 34,
+  "app": "rbim",
+  "name": "0013_remove_reporthistory_barangay_reporthistory_location",
+  "applied": {
+    "$date": "2023-03-14T11:55:05.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64255a68975b48aed59de334"
+  },
+  "id": 35,
+  "app": "rbim",
+  "name": "0002_tasks_status",
+  "applied": {
+    "$date": "2023-03-30T09:46:15.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64369921497018bfbc0bfc13"
+  },
+  "id": 36,
+  "app": "rbim",
+  "name": "0003_remove_tasks_status_questions_is_qn_enable",
+  "applied": {
+    "$date": "2023-04-12T11:42:25.297Z"
+  }
+}]

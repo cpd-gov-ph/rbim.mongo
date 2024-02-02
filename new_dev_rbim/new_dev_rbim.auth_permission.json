@@ -1,0 +1,1044 @@
+[{
+  "_id": {
+    "$oid": "640c3c41f8ec5a64f3fe9c0f"
+  },
+  "id": 1,
+  "name": "Can add log entry",
+  "content_type_id": 1,
+  "codename": "add_logentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c41f8ec5a64f3fe9c10"
+  },
+  "id": 2,
+  "name": "Can change log entry",
+  "content_type_id": 1,
+  "codename": "change_logentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c41f8ec5a64f3fe9c11"
+  },
+  "id": 3,
+  "name": "Can delete log entry",
+  "content_type_id": 1,
+  "codename": "delete_logentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c41f8ec5a64f3fe9c12"
+  },
+  "id": 4,
+  "name": "Can view log entry",
+  "content_type_id": 1,
+  "codename": "view_logentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c15"
+  },
+  "id": 5,
+  "name": "Can add permission",
+  "content_type_id": 2,
+  "codename": "add_permission"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c16"
+  },
+  "id": 6,
+  "name": "Can change permission",
+  "content_type_id": 2,
+  "codename": "change_permission"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c17"
+  },
+  "id": 7,
+  "name": "Can delete permission",
+  "content_type_id": 2,
+  "codename": "delete_permission"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c18"
+  },
+  "id": 8,
+  "name": "Can view permission",
+  "content_type_id": 2,
+  "codename": "view_permission"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c19"
+  },
+  "id": 9,
+  "name": "Can add group",
+  "content_type_id": 3,
+  "codename": "add_group"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c1a"
+  },
+  "id": 10,
+  "name": "Can change group",
+  "content_type_id": 3,
+  "codename": "change_group"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c1b"
+  },
+  "id": 11,
+  "name": "Can delete group",
+  "content_type_id": 3,
+  "codename": "delete_group"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c1c"
+  },
+  "id": 12,
+  "name": "Can view group",
+  "content_type_id": 3,
+  "codename": "view_group"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c1e"
+  },
+  "id": 13,
+  "name": "Can add content type",
+  "content_type_id": 4,
+  "codename": "add_contenttype"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c1f"
+  },
+  "id": 14,
+  "name": "Can change content type",
+  "content_type_id": 4,
+  "codename": "change_contenttype"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c20"
+  },
+  "id": 15,
+  "name": "Can delete content type",
+  "content_type_id": 4,
+  "codename": "delete_contenttype"
+},
+{
+  "_id": {
+    "$oid": "640c3c42f8ec5a64f3fe9c21"
+  },
+  "id": 16,
+  "name": "Can view content type",
+  "content_type_id": 4,
+  "codename": "view_contenttype"
+},
+{
+  "_id": {
+    "$oid": "640c3c43f8ec5a64f3fe9c23"
+  },
+  "id": 17,
+  "name": "Can add session",
+  "content_type_id": 5,
+  "codename": "add_session"
+},
+{
+  "_id": {
+    "$oid": "640c3c43f8ec5a64f3fe9c24"
+  },
+  "id": 18,
+  "name": "Can change session",
+  "content_type_id": 5,
+  "codename": "change_session"
+},
+{
+  "_id": {
+    "$oid": "640c3c43f8ec5a64f3fe9c25"
+  },
+  "id": 19,
+  "name": "Can delete session",
+  "content_type_id": 5,
+  "codename": "delete_session"
+},
+{
+  "_id": {
+    "$oid": "640c3c43f8ec5a64f3fe9c26"
+  },
+  "id": 20,
+  "name": "Can view session",
+  "content_type_id": 5,
+  "codename": "view_session"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c29"
+  },
+  "id": 21,
+  "name": "Can add Token",
+  "content_type_id": 6,
+  "codename": "add_token"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2a"
+  },
+  "id": 22,
+  "name": "Can change Token",
+  "content_type_id": 6,
+  "codename": "change_token"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2b"
+  },
+  "id": 23,
+  "name": "Can delete Token",
+  "content_type_id": 6,
+  "codename": "delete_token"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2c"
+  },
+  "id": 24,
+  "name": "Can view Token",
+  "content_type_id": 6,
+  "codename": "view_token"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2d"
+  },
+  "id": 25,
+  "name": "Can add token",
+  "content_type_id": 7,
+  "codename": "add_tokenproxy"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2e"
+  },
+  "id": 26,
+  "name": "Can change token",
+  "content_type_id": 7,
+  "codename": "change_tokenproxy"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c2f"
+  },
+  "id": 27,
+  "name": "Can delete token",
+  "content_type_id": 7,
+  "codename": "delete_tokenproxy"
+},
+{
+  "_id": {
+    "$oid": "640c3c44f8ec5a64f3fe9c30"
+  },
+  "id": 28,
+  "name": "Can view token",
+  "content_type_id": 7,
+  "codename": "view_tokenproxy"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c45"
+  },
+  "id": 29,
+  "name": "Can add users",
+  "content_type_id": 8,
+  "codename": "add_users"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c46"
+  },
+  "id": 30,
+  "name": "Can change users",
+  "content_type_id": 8,
+  "codename": "change_users"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c47"
+  },
+  "id": 31,
+  "name": "Can delete users",
+  "content_type_id": 8,
+  "codename": "delete_users"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c48"
+  },
+  "id": 32,
+  "name": "Can view users",
+  "content_type_id": 8,
+  "codename": "view_users"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c49"
+  },
+  "id": 33,
+  "name": "Can add answers",
+  "content_type_id": 9,
+  "codename": "add_answers"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4a"
+  },
+  "id": 34,
+  "name": "Can change answers",
+  "content_type_id": 9,
+  "codename": "change_answers"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4b"
+  },
+  "id": 35,
+  "name": "Can delete answers",
+  "content_type_id": 9,
+  "codename": "delete_answers"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4c"
+  },
+  "id": 36,
+  "name": "Can view answers",
+  "content_type_id": 9,
+  "codename": "view_answers"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4d"
+  },
+  "id": 37,
+  "name": "Can add census category",
+  "content_type_id": 10,
+  "codename": "add_censuscategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4e"
+  },
+  "id": 38,
+  "name": "Can change census category",
+  "content_type_id": 10,
+  "codename": "change_censuscategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c4f"
+  },
+  "id": 39,
+  "name": "Can delete census category",
+  "content_type_id": 10,
+  "codename": "delete_censuscategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c50"
+  },
+  "id": 40,
+  "name": "Can view census category",
+  "content_type_id": 10,
+  "codename": "view_censuscategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c51"
+  },
+  "id": 41,
+  "name": "Can add census member",
+  "content_type_id": 11,
+  "codename": "add_censusmember"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c52"
+  },
+  "id": 42,
+  "name": "Can change census member",
+  "content_type_id": 11,
+  "codename": "change_censusmember"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c53"
+  },
+  "id": 43,
+  "name": "Can delete census member",
+  "content_type_id": 11,
+  "codename": "delete_censusmember"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c54"
+  },
+  "id": 44,
+  "name": "Can view census member",
+  "content_type_id": 11,
+  "codename": "view_censusmember"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c55"
+  },
+  "id": 45,
+  "name": "Can add census static category",
+  "content_type_id": 12,
+  "codename": "add_censusstaticcategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c56"
+  },
+  "id": 46,
+  "name": "Can change census static category",
+  "content_type_id": 12,
+  "codename": "change_censusstaticcategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c57"
+  },
+  "id": 47,
+  "name": "Can delete census static category",
+  "content_type_id": 12,
+  "codename": "delete_censusstaticcategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c58"
+  },
+  "id": 48,
+  "name": "Can view census static category",
+  "content_type_id": 12,
+  "codename": "view_censusstaticcategory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c59"
+  },
+  "id": 49,
+  "name": "Can add city",
+  "content_type_id": 13,
+  "codename": "add_city"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5a"
+  },
+  "id": 50,
+  "name": "Can change city",
+  "content_type_id": 13,
+  "codename": "change_city"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5b"
+  },
+  "id": 51,
+  "name": "Can delete city",
+  "content_type_id": 13,
+  "codename": "delete_city"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5c"
+  },
+  "id": 52,
+  "name": "Can view city",
+  "content_type_id": 13,
+  "codename": "view_city"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5d"
+  },
+  "id": 53,
+  "name": "Can add options",
+  "content_type_id": 14,
+  "codename": "add_options"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5e"
+  },
+  "id": 54,
+  "name": "Can change options",
+  "content_type_id": 14,
+  "codename": "change_options"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c5f"
+  },
+  "id": 55,
+  "name": "Can delete options",
+  "content_type_id": 14,
+  "codename": "delete_options"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c60"
+  },
+  "id": 56,
+  "name": "Can view options",
+  "content_type_id": 14,
+  "codename": "view_options"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c61"
+  },
+  "id": 57,
+  "name": "Can add questions",
+  "content_type_id": 15,
+  "codename": "add_questions"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c62"
+  },
+  "id": 58,
+  "name": "Can change questions",
+  "content_type_id": 15,
+  "codename": "change_questions"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c63"
+  },
+  "id": 59,
+  "name": "Can delete questions",
+  "content_type_id": 15,
+  "codename": "delete_questions"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c64"
+  },
+  "id": 60,
+  "name": "Can view questions",
+  "content_type_id": 15,
+  "codename": "view_questions"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c65"
+  },
+  "id": 61,
+  "name": "Can add report categories",
+  "content_type_id": 16,
+  "codename": "add_reportcategories"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c66"
+  },
+  "id": 62,
+  "name": "Can change report categories",
+  "content_type_id": 16,
+  "codename": "change_reportcategories"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c67"
+  },
+  "id": 63,
+  "name": "Can delete report categories",
+  "content_type_id": 16,
+  "codename": "delete_reportcategories"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c68"
+  },
+  "id": 64,
+  "name": "Can view report categories",
+  "content_type_id": 16,
+  "codename": "view_reportcategories"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c69"
+  },
+  "id": 65,
+  "name": "Can add survey master",
+  "content_type_id": 17,
+  "codename": "add_surveymaster"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6a"
+  },
+  "id": 66,
+  "name": "Can change survey master",
+  "content_type_id": 17,
+  "codename": "change_surveymaster"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6b"
+  },
+  "id": 67,
+  "name": "Can delete survey master",
+  "content_type_id": 17,
+  "codename": "delete_surveymaster"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6c"
+  },
+  "id": 68,
+  "name": "Can view survey master",
+  "content_type_id": 17,
+  "codename": "view_surveymaster"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6d"
+  },
+  "id": 69,
+  "name": "Can add tasks",
+  "content_type_id": 18,
+  "codename": "add_tasks"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6e"
+  },
+  "id": 70,
+  "name": "Can change tasks",
+  "content_type_id": 18,
+  "codename": "change_tasks"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c6f"
+  },
+  "id": 71,
+  "name": "Can delete tasks",
+  "content_type_id": 18,
+  "codename": "delete_tasks"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c70"
+  },
+  "id": 72,
+  "name": "Can view tasks",
+  "content_type_id": 18,
+  "codename": "view_tasks"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c71"
+  },
+  "id": 73,
+  "name": "Can add survey entry",
+  "content_type_id": 19,
+  "codename": "add_surveyentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c72"
+  },
+  "id": 74,
+  "name": "Can change survey entry",
+  "content_type_id": 19,
+  "codename": "change_surveyentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c73"
+  },
+  "id": 75,
+  "name": "Can delete survey entry",
+  "content_type_id": 19,
+  "codename": "delete_surveyentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c74"
+  },
+  "id": 76,
+  "name": "Can view survey entry",
+  "content_type_id": 19,
+  "codename": "view_surveyentry"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c75"
+  },
+  "id": 77,
+  "name": "Can add section",
+  "content_type_id": 20,
+  "codename": "add_section"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c76"
+  },
+  "id": 78,
+  "name": "Can change section",
+  "content_type_id": 20,
+  "codename": "change_section"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c77"
+  },
+  "id": 79,
+  "name": "Can delete section",
+  "content_type_id": 20,
+  "codename": "delete_section"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c78"
+  },
+  "id": 80,
+  "name": "Can view section",
+  "content_type_id": 20,
+  "codename": "view_section"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c79"
+  },
+  "id": 81,
+  "name": "Can add report history",
+  "content_type_id": 21,
+  "codename": "add_reporthistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7a"
+  },
+  "id": 82,
+  "name": "Can change report history",
+  "content_type_id": 21,
+  "codename": "change_reporthistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7b"
+  },
+  "id": 83,
+  "name": "Can delete report history",
+  "content_type_id": 21,
+  "codename": "delete_reporthistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7c"
+  },
+  "id": 84,
+  "name": "Can view report history",
+  "content_type_id": 21,
+  "codename": "view_reporthistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7d"
+  },
+  "id": 85,
+  "name": "Can add profile",
+  "content_type_id": 22,
+  "codename": "add_profile"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7e"
+  },
+  "id": 86,
+  "name": "Can change profile",
+  "content_type_id": 22,
+  "codename": "change_profile"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c7f"
+  },
+  "id": 87,
+  "name": "Can delete profile",
+  "content_type_id": 22,
+  "codename": "delete_profile"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c80"
+  },
+  "id": 88,
+  "name": "Can view profile",
+  "content_type_id": 22,
+  "codename": "view_profile"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c81"
+  },
+  "id": 89,
+  "name": "Can add notification history",
+  "content_type_id": 23,
+  "codename": "add_notificationhistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c82"
+  },
+  "id": 90,
+  "name": "Can change notification history",
+  "content_type_id": 23,
+  "codename": "change_notificationhistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c83"
+  },
+  "id": 91,
+  "name": "Can delete notification history",
+  "content_type_id": 23,
+  "codename": "delete_notificationhistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c84"
+  },
+  "id": 92,
+  "name": "Can view notification history",
+  "content_type_id": 23,
+  "codename": "view_notificationhistory"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c85"
+  },
+  "id": 93,
+  "name": "Can add municipality",
+  "content_type_id": 24,
+  "codename": "add_municipality"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c86"
+  },
+  "id": 94,
+  "name": "Can change municipality",
+  "content_type_id": 24,
+  "codename": "change_municipality"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c87"
+  },
+  "id": 95,
+  "name": "Can delete municipality",
+  "content_type_id": 24,
+  "codename": "delete_municipality"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c88"
+  },
+  "id": 96,
+  "name": "Can view municipality",
+  "content_type_id": 24,
+  "codename": "view_municipality"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c89"
+  },
+  "id": 97,
+  "name": "Can add location",
+  "content_type_id": 25,
+  "codename": "add_location"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8a"
+  },
+  "id": 98,
+  "name": "Can change location",
+  "content_type_id": 25,
+  "codename": "change_location"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8b"
+  },
+  "id": 99,
+  "name": "Can delete location",
+  "content_type_id": 25,
+  "codename": "delete_location"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8c"
+  },
+  "id": 100,
+  "name": "Can view location",
+  "content_type_id": 25,
+  "codename": "view_location"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8d"
+  },
+  "id": 101,
+  "name": "Can add census static sections",
+  "content_type_id": 26,
+  "codename": "add_censusstaticsections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8e"
+  },
+  "id": 102,
+  "name": "Can change census static sections",
+  "content_type_id": 26,
+  "codename": "change_censusstaticsections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c8f"
+  },
+  "id": 103,
+  "name": "Can delete census static sections",
+  "content_type_id": 26,
+  "codename": "delete_censusstaticsections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c90"
+  },
+  "id": 104,
+  "name": "Can view census static sections",
+  "content_type_id": 26,
+  "codename": "view_censusstaticsections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c91"
+  },
+  "id": 105,
+  "name": "Can add census sections",
+  "content_type_id": 27,
+  "codename": "add_censussections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c92"
+  },
+  "id": 106,
+  "name": "Can change census sections",
+  "content_type_id": 27,
+  "codename": "change_censussections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c93"
+  },
+  "id": 107,
+  "name": "Can delete census sections",
+  "content_type_id": 27,
+  "codename": "delete_censussections"
+},
+{
+  "_id": {
+    "$oid": "640c3c46f8ec5a64f3fe9c94"
+  },
+  "id": 108,
+  "name": "Can view census sections",
+  "content_type_id": 27,
+  "codename": "view_censussections"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de33a"
+  },
+  "id": 112,
+  "name": "Can view ocr options",
+  "content_type_id": 28,
+  "codename": "view_ocroptions"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de33c"
+  },
+  "id": 114,
+  "name": "Can change ocr master",
+  "content_type_id": 29,
+  "codename": "change_ocrmaster"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de33e"
+  },
+  "id": 116,
+  "name": "Can view ocr master",
+  "content_type_id": 29,
+  "codename": "view_ocrmaster"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de338"
+  },
+  "id": 110,
+  "name": "Can change ocr options",
+  "content_type_id": 28,
+  "codename": "change_ocroptions"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de33d"
+  },
+  "id": 115,
+  "name": "Can delete ocr master",
+  "content_type_id": 29,
+  "codename": "delete_ocrmaster"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de339"
+  },
+  "id": 111,
+  "name": "Can delete ocr options",
+  "content_type_id": 28,
+  "codename": "delete_ocroptions"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de337"
+  },
+  "id": 109,
+  "name": "Can add ocr options",
+  "content_type_id": 28,
+  "codename": "add_ocroptions"
+},
+{
+  "_id": {
+    "$oid": "64255a6c975b48aed59de33b"
+  },
+  "id": 113,
+  "name": "Can add ocr master",
+  "content_type_id": 29,
+  "codename": "add_ocrmaster"
+}]

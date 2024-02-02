@@ -1,0 +1,5842 @@
+[{
+  "_id": {
+    "$oid": "636dfac2520e4aa15e6010e6"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:33:22.482Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.613Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bny1d6ksRcy1OsKSzzbh5Q==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "ZE+YDDz4S5qm8OHKZXjWug==",
+      "subType": "03"
+    }
+  },
+  "position": 1,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "FpzlXfrGSbW8HGBivQ9MeA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Number",
+      "title": "Number",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "U6RbDSd9QUGbPiDGiPBg/A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "box_number",
+          "placeholder": "Enter the name of the head",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Enter a valid 6 digit number to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 6
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "S/L9itxvQE+lJUJbdBYoDw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Institutional",
+      "title": "Institutional",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "g4d/0TXkQri1zkpmqYLizg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "radio",
+          "placeholder": "Household",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "/n985FMqTuu0CbfO5tZMJA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "radio",
+          "placeholder": "Institutional living quarter",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "UsZx7QbnRMiv+ebMjPVA0g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Notes",
+      "title": "Notes",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "TFGgdmo1TuaUIaF9Akc9Ew==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textarea",
+          "placeholder": "Household",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": null,
+          "options": "Lubos kong naunawaan ang layunin ng pananaliksik at Census ng barangay. Nabasa ko at pinaliwanag sa akin ang nilalaman ng kasulatan at kusang loob akong sumasangayon na makibahagi sa proyektong ito. Naunawaan kong magiging kumpidensyal ang lahat ng aking kasagutan. Gayunpaman, pinahihintulutan ko ang paggamit ng akin impormasyon ng barangay kalakip ng paggalang sa aking data privacy rights",
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 2
+},
+{
+  "_id": {
+    "$oid": "636dfad1520e4aa15e6010e7"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:33:37.693Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.675Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Q0N5Xp/hTt6M42zUjgli9Q==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "cWmzRrVYRl+BuehcY6C/Cg==",
+      "subType": "03"
+    }
+  },
+  "position": 2,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "Z8QlInOZRQ68CjwNPUTb7A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Province",
+      "title": "Province",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "4Qrg90dKQ62auoN2l7GoYw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Province name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Ncbgjk2FT9yPdOc1Fa0F1g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Province ID",
+      "title": "Province ID",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "H31KCUKLTcKHYE8g6euBNQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Province ID",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter 2 digit ID to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "noQUmsguRgKYF5Dl2nNm8g==",
+          "subType": "03"
+        }
+      },
+      "qno": "City / Municipality",
+      "title": "City / Municipality",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "kAFqfAg8T+2zdbMMU6I2Lw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "City / Municipality",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "KBT4+I9kSvCPyFEgqC16Mg==",
+          "subType": "03"
+        }
+      },
+      "qno": "City / Municipality ID",
+      "title": "City / Municipality ID",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "TgTj/0qFRK+lj7vLEoklzQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "City / Municipality ID",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter 2 digit ID to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "VCnOeyOlQl6Ctg2uldKGNA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Barangay 1",
+      "title": "Barangay",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "FcjI0i0oTqmBniVFHWNTmA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Barangay name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "nOVDQ0IsTGuNAlj7pW4+Ew==",
+          "subType": "03"
+        }
+      },
+      "qno": "Barangay number",
+      "title": "Barangay number",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "b/3bfJiPSBWMzt7/XicmAw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Barangay number",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter 3 digit ID to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 3
+        }
+      ],
+      "position": 6,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "vYpQ+RVuSq+DlE24+AHLjw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Name of Respondent",
+      "title": "Name of Respondent",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "HJwusMkmQWWcV0rIvIyKLg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter name of respondent",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 7,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "BLlAOpw0SNKNAEPTqHMOLQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Household Head",
+      "title": "Household Head",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "O/6jmf+EQLapA/cPWSOoSA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter name of household head",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 8,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 9
+},
+{
+  "_id": {
+    "$oid": "636dfae0520e4aa15e6010e8"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:33:52.330Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.733Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Yskj8Sb5Rluc7PDpCDgT9w==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "cWmzRrVYRl+BuehcY6C/Cg==",
+      "subType": "03"
+    }
+  },
+  "position": 3,
+  "section_name": "Address",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "bn9lGMwSSyKEa8Me6lO41Q==",
+          "subType": "03"
+        }
+      },
+      "qno": "Locality",
+      "title": "Locality",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": "644a0a19-c622-4a96-b156-900a53dfb8af",
+          "dtype": "textbox",
+          "placeholder": "Enter the locality",
+          "position": 1,
+          "answer_value": null,
+          "options": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-12-08T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-12-08T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "b35lGN0SSiKEatMf+1OoxQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Room / Floor / Unit no and Building name",
+      "title": "Room / Floor / Unit no and Building name",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "no3lHtHLTS+jPadDIwGtxw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter room / floor /unit no and building name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "nys22djDR4+gWQNB6kNjUQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "House / Lot and Block no",
+      "title": "House / Lot and Block no",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "y7eQq4aQQyeAzdJBSixX6w==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the house / lot and block no",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Cy1GV4j1TMSVFuO+34IuEw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Street Name",
+      "title": "Street Name",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "i6ghjJRrS9WhvKbJcpOtIA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the street name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 3
+},
+{
+  "_id": {
+    "$oid": "636dfaf6520e4aa15e6010e9"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:34:14.900Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.107Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Ce2A8fiBTFyY29md8DgOtA==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "oY/SRxr1Q6mr/1jUB/1i+w==",
+      "subType": "03"
+    }
+  },
+  "position": 4,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "uZEr8r6+Qq2CptfjfJksFw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Visit",
+      "title": "Visit",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "NMYNzNUKRqifZfHOh0rO5Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select visit",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select the visit number to proceed",
+          "options": [
+            "First",
+            "Second"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Ay2UDFHaRwyWvvQX1WNKSA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date of Visit",
+      "title": "Date of Visit",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "rUjNFlQxTlCro9r4nh2XEg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "DD/MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "i2cj5nftQHuqvnNQiguPOg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Time Start",
+      "title": "Time Start",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "K0/iUun4SZa54yeOiZevRQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "timepicker",
+          "placeholder": "",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a valid time to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "YXdLsR1XSb2C663yO11a5w==",
+          "subType": "03"
+        }
+      },
+      "qno": "Time End",
+      "title": "Time End",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "x8ugO3OhTLiM9VA7cX3NQw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "timepicker",
+          "placeholder": "",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a valid time to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": true,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "SuEiySYGSGq8O4suZREvpQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Result",
+      "title": "Result",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "sPpnnXLKTjeV4mr4xE9/zA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select visit",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Pending",
+            "Callback",
+            "Completed"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": true,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "F9WdY8hzQRCeqpvWIlCgNQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date Next Visit",
+      "title": "Date Next Visit",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "RCzaTPOZQAaLIYjSRp1zCg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 6,
+      "is_read_only": true,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "LW5EdZDUSgqfiaqZndxXGA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Name of Interviewer",
+      "title": "Name of Interviewer",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "EhDGPtfoTZGJwn+6I0pr/g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 7,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "YbUY26psRDmReW5vEWaEng==",
+          "subType": "03"
+        }
+      },
+      "qno": "Initial 1",
+      "title": "Initial",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "gejZ95VpQr+UtXWjvvrQCw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the initial",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 8,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "nRggl+LcTbqdr8ChPW07CQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date 1",
+      "title": "Date",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "Zg70trKTRcWQu2wzQ9TSTg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "DD/MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 8,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "EfAnF5FIQQS/WumbXrPxQg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Name of Supervisor 1",
+      "title": "Name of Supervisor",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "a2LXPbr3SberIsl8AbjOig==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 9,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "97Z5tqnISf+4UCkfkgga7g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Initial 2",
+      "title": "Initial",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "OmtcB8xjQOuXnXO39WDzyQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the initial",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 10,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "cXDSIq31SNKgV0TacjQaxg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date 2",
+      "title": "Date",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "JIcE3nw5Sci5wZXHmjCZ5g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "DD/MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 10,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 12
+},
+{
+  "_id": {
+    "$oid": "636dfb07520e4aa15e6010ea"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:34:31.650Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.172Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HEcFvrJoSaObZGNBdhTWTw==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "65t9XWt7T8CWPwCqd/bCZA==",
+      "subType": "03"
+    }
+  },
+  "position": 5,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "4fGJuX17QjWkxLI9XBqgCw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date Encoded",
+      "title": "Date Encoded",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "xNkvpB+kR9S+DAJMxVVxeA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "DD/MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Lxze7RMBQb2NXAihTvLxkw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Name of Encoder",
+      "title": "Name of Encoder",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "07s81tKsSyqtk80iAZNBvw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Xp4k76FETgym/y8eNNZoug==",
+          "subType": "03"
+        }
+      },
+      "qno": "Initial of Encoder",
+      "title": "Initial of Encoder",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "TrnetBAbTaqzBZfA5ivXiA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "1X2kfBGwTqusvIcrEN1j+Q==",
+          "subType": "03"
+        }
+      },
+      "qno": "Name of Supervisor 2",
+      "title": "Name of Supervisor",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "ipUqC+hpSoa7XBHoJfdlwQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the name of supervisor",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "+ppOoD9qTSmhaC1svlvrpQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Initial 3",
+      "title": "Initial",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "wdB2sMjMRtSdF8ZRwEl5ug==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the initial",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "jIAr/lWiRPKmNIaa25XhyA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Date 3",
+      "title": "Date",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "ECjcKobJQJaRtLN61SMgtg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "datepicker",
+          "placeholder": "DD/MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "3AMVAv0BSfq36Kv/nhdEYQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Barangay 2",
+      "title": "Barangay",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "X6Opz59dRqakAeA8HU1/2w==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Barangay",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 7
+},
+{
+  "_id": {
+    "$oid": "636dfb21520e4aa15e6010eb"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:34:57.793Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.852Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZPWMwpSSTIycvRKTgWN3/w==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "hlVkxmx6SICLC1Sof6p0eg==",
+      "subType": "03"
+    }
+  },
+  "position": 6,
+  "section_name": "FOR ALL HOUSEHOLD MEMBERS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "hvy6xCMMQUCWYQxpybAbww==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q1",
+      "title": "1.Who are the members of the household starting from the HH head?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "HF8y/IwQSGCRMqD1NnaP3A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the name of the head",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid name to proceed.",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "UhNYVM+JSh6SKRmTFml5Cw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q2",
+      "title": "2. What is ___ ‘s relationship to HH head ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "qTxgcdDnS0i/1BNkJlkr7g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select the relationship to household head",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Head",
+            "Spouse",
+            "Son",
+            "Daughter",
+            "Stepson",
+            "Stepdaughter",
+            "Son-in-law",
+            "Daughter-in-law",
+            "Grandson",
+            "Granddaughter",
+            "Father",
+            "Mother",
+            "Brother",
+            "Sister",
+            "Uncle",
+            "Aunt",
+            "Nephew",
+            "Niece",
+            "Other relative",
+            "Non-relative",
+            "Boarder",
+            "Domestic helper"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "/shLJ1dmSeO5WN7aBWcdFw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q3",
+      "title": "3. Is ___ male or female ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "9PN7n6j/QB6H9FZfQDovGA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select the gender",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select a gender to proceed",
+          "options": [
+            "Male",
+            "Female"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "QlQdE/W2TY2xmqyWfkoAbw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q4",
+      "title": "4. How old is ___ as of his/her last birthday ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "DTvZuyQxTri1i3NlGdTeIg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Write the age as of last birthday",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid age to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "dTs/2Z7MQ9e/0pPsintoPg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q5",
+      "title": "5. When was ___ born ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "7+tcJzhGT5Kq4elOCn7Eaw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "age_picker",
+          "placeholder": "MM/YYYY",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "GdCzSFkLR+WIc7wf/PZW8A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q6",
+      "title": "6. Place of birth? ",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "w2pWJI+xSxuzpBr0v04zjg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the Province or City/ Municipality",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid province to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "dnSN8z9jTAKE7rJfkvOydQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the province",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid province to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 6,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "N9reWCg0SIGJRIaYARO7QQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q7",
+      "title": "7. Is ___ a Filipino? If not, what is ___’s nationality?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "8OT8SEfWS9+O8UHOH2UKVA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Select the nationality to proceed",
+          "options": [
+            "Filipino",
+            "Non-Filipino"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "PFuxOxzaQQOTdFRj4hs7/g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the nationality",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Enter the nationality to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 7,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "rKhV2nxwTsG/FaWUQwdqvg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q8",
+      "title": "8. What is ___’s current marital status ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "Us9C8JT3TnmxL3fwEUxFlw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Single",
+            "Married",
+            "Living-in",
+            "Widowed",
+            "Separated",
+            "Divorced",
+            "Unknown"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 8,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "xMh5Jyx6RYC3lQrAE4Eb7A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q9",
+      "title": "9. What is the religion of ___ ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "6qfWt/rIT8ihyp4U8q4RUQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": [
+            "Roman Catholic",
+            "Protestant",
+            "Iglesia ni Cristo",
+            "Aglipay",
+            "Islam",
+            "Hinduism",
+            "Jehovah's Witnesses",
+            "Seventh-Day Adventists",
+            "Christian",
+            "Other Christian",
+            "No religion"
+          ],
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 9,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "+psTewyzTVyGJJ4g627lCA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q10",
+      "title": "10. What is ___ ‘s ethnicity or is ___ a tagalog, Bicalona, Bisaya, etc ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "WFW6Yl76R/y/eUaYRQwTVg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed.",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 10,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 10
+},
+{
+  "_id": {
+    "$oid": "636dfb5e520e4aa15e6010ec"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:35:58.205Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.046Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "e6j0+B7bTdqTtuAWNYWCGQ==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "+6u3SH2LTtWqeSmUV1Ki/w==",
+      "subType": "03"
+    }
+  },
+  "position": 7,
+  "section_name": "FOR 5 YRS & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "H78lQFdUSTKwMU/d4t0c6g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q11",
+      "title": "11. What is the highest level of education completed by ___?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "+Iv3y7HLRMq6m/d+pfc28g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "No education",
+            "Pre-school",
+            "Elementary level",
+            "Elementary graduate",
+            "High school level",
+            "High school graduate",
+            "Junior HS",
+            "Junior HS graduate",
+            "Senior HS level",
+            "Senior HS graduate",
+            "Vocational/Tech ",
+            "College level",
+            "College graduate",
+            "Post-graduate"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 1
+},
+{
+  "_id": {
+    "$oid": "636dfb6a520e4aa15e6010ed"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:36:10.576Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.974Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "TYhvDvd2RlGaQfpIYMUniA==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "+6u3SH2LTtWqeSmUV1Ki/w==",
+      "subType": "03"
+    }
+  },
+  "position": 8,
+  "section_name": "FOR 3-24 YEARS OLD",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "t+9G5nACTVK8stJzQT2Org==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q12",
+      "title": "12. Is ___ currently enrolled ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "fi4ys7W7RXyZuCrfDBNbMg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes, public",
+            "Yes, private",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "IOWa8JlySLGngJ2Mnv0ISQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q13",
+      "title": "13. What type of school is  ___ on ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "sT5k0V8fQJKT25KvuneHOg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Pre-school",
+            "Elementary",
+            "Junior High School",
+            "Senior High School",
+            "Vocational/Technical",
+            "College/University"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "Ubv9NVZkTKK8X8ZpSsTe+Q==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q14",
+      "title": "14. In what barangay and city / municipality is ___ currently atttending school?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "EHVEkLbjTuicF2z1CqzSPw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 3
+},
+{
+  "_id": {
+    "$oid": "636dfb76520e4aa15e6010ee"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:36:22.842Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.243Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ErP1S7YjSeCdC/FRGg7IpA==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "6+drKBZoS9Cdl8bX209ksA==",
+      "subType": "03"
+    }
+  },
+  "position": 9,
+  "section_name": "FOR 15 YEARS OLD AND ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "qx29PYVsQVyjJ8nHUA1V0g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q15",
+      "title": "15.How much is ___’s monthly income?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "dabv56afRhWC4h2kG2z9Kg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "+Vdxr03fR1ucuvr+gf8zkQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q16",
+      "title": "16. What is the major source of  ___’s income ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "XSNMpQt8SIqw0vsBH82UDw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Employment",
+            "Business",
+            "Remittance",
+            "Investments",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "N91hUcUARiumZcr7XyXKfg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "nv5jdyBoRhCdnE8mggc0ng==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q17",
+      "title": "17. What is the status of  ___’s work /business ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "2sZOeI1QTM6Oj+bQSyqCtA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Permanent Work",
+            "Casual Work",
+            "Contractual Work",
+            "Individually Owned Business",
+            "Shared/Partnership Business",
+            "Corporate Business"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "DZegBchEQ8ux0DC15DnyYg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q18",
+      "title": " 18. In what barangay and city / municipality is ___’s work/business located ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "ecoXTj5TR/yvZCuNvizvqA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 4
+},
+{
+  "_id": {
+    "$oid": "636dfb85520e4aa15e6010ef"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:36:37.732Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.912Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "zku9NWBLRnujo3GWX2HHug==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "ZG/EvU3KR5KtVelqSlx7Pg==",
+      "subType": "03"
+    }
+  },
+  "position": 10,
+  "section_name": "FOR 0 TO 11 MONTH OLD",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "fzYhfYM9SBWSDDYD8z4Dww==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q19",
+      "title": "19. Where was ___ delivered ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "rE1g608uQ8CzMl6bUvjKoQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Public hospital",
+            "Private hospital",
+            "Lying-in clinic",
+            "Home",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "RzrG7DmyQ2mq8tHQ1RqV6g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "DobRL2YBS42Cg1NAuqrj8A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q20",
+      "title": "20. Who attended in the delivery of ___ ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "yWBSH5MiT3+PhnKf+VUIxQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Doctor",
+            "Nurse",
+            "Midwife",
+            "Hilot",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "WyjG5TAPQeOggHUWlsSmOw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "kTh3mdxOSOuwFhsYpgoVnA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q21",
+      "title": "21. What is the last vaccine received by ___ ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "ypZultPwR7CKWqmhdSgerw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textarea",
+          "placeholder": "Enter the vaccine last received by the infant. Mother / Baby Book or Immunization card may be used as reference",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 3
+},
+{
+  "_id": {
+    "$oid": "636dfb91520e4aa15e6010f0"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:36:49.405Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:51.793Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "yZXtOYRXSu68taQ28mZ6nA==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "ZG/EvU3KR5KtVelqSlx7Pg==",
+      "subType": "03"
+    }
+  },
+  "position": 11,
+  "section_name": "FOR WOMEN 10 TO 54 YEARS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "u/0YBt0bRw2+mk1DFemfvQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q22",
+      "title": "22. How many pregnancies does ___  had ? How many children are still living?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "csheWF4eQH+VelMuPRBbog==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Select the number of pregnancies",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": [],
+          "keyboard_type": "number",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "nv6I7Sb/SZaMwNuViGDO3Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "How many are still living as time of interview",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": [],
+          "keyboard_type": "number",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "UK2TEQuhS5yUV+3B/tnAmQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q23",
+      "title": "23. What family planning method does ___  and partner currently use ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "gdc1aNuTQRuv6zZB6AhQng==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Female sterilization/Ligation",
+            "Male sterilization/Vasectomy",
+            "IUD",
+            "Injectables",
+            "Implants",
+            "Pill",
+            "Condom",
+            "Modern natural FP",
+            "Lactational Amenorrhea Method (LAM)",
+            "Traditional",
+            "Not Applicable"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "VPX+xPynQPe2XAFh/yv1bg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q24",
+      "title": "24. If using FP, where did they obtain the FP ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "/Gu2DWi0RUeJ96pnl2ypbg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Government hospital",
+            "RHU/Health center",
+            "Brgy. Health Station",
+            "Private hospital",
+            "Pharmacy",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "KEiYHAsTTfKNKxN8GW/eYg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "h3R9FEnSRV+txyALilhnpg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q25",
+      "title": "25. Does ____ and partner intend to use FP method ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "i+Mq8qvOSxaTmxE5Y3/6/A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No",
+            "Not Applicable"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "qA8WEnfiSyKgP2gFTx/ftQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "FP method or reason",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 4
+},
+{
+  "_id": {
+    "$oid": "636dfba1520e4aa15e6010f1"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:37:05.759Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.370Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7Hdj6R2UT4mz4PmeFBgykg==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "dvzvG5JlRmmDm74wFtjQEQ==",
+      "subType": "03"
+    }
+  },
+  "position": 12,
+  "section_name": "FOR ALL HOUSEHOLD MEMBERS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "7sw2kc7qTSq4IOZ7FxI2aw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q26",
+      "title": "26. What is the primary health insurance ____ have ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "X0RkdKhBRSu2NeVfGp8K/A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select One",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "PhilHealth paying member",
+            "PhilHealth dependent of paying member",
+            "PhilHealth indigent member",
+            "PhilHealth dependent of indigent member",
+            "GSIS",
+            "SSS",
+            "Private/HMO",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "LfuQYoHFQe2gM1YwSPZRqg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "FtfkztUgR9O/yfiWimC1ng==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q27",
+      "title": "27. What facility did ____ visited in the past 12 months ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "U1qh73DAT6ml9DCkl0wFSQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select One",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Government hospital",
+            "RHU/Health center",
+            "Brgy. Health Station",
+            "Private hospital",
+            "Private clinic",
+            "Pharmacy",
+            "Hilot/Herbalist",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "YO7nkSnGQY+zZm09xhWMCw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "N6L54umiSeGUCVudNYrrHQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q28",
+      "title": "28. What is the reason for the visit in health facility ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "Xi0zZv6QRSOAOD7LiJzhLQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select One",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Sick/Injured",
+            "Prenatal/Postnatal",
+            "Gave birth",
+            "Dental",
+            "Medical check-up",
+            "Medical requirement",
+            "NHTS/CCT/4Ps requirement",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "MLLcfQkAT5e8xeDaFuEqZA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "For others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "ErZEyzsnScCYAa+LO68IsA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q29",
+      "title": "29. Is there a member of the HH that has any disability? What is the disability ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "/jg3B5MuRyGK2vXz83sxmA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textarea",
+          "placeholder": "If with disability, write the disability type, if no write none",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 4
+},
+{
+  "_id": {
+    "$oid": "636dfbae520e4aa15e6010f2"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:37:18.599Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.486Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "c7dHfszrTKiggtV2gNT75Q==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "Q0TC44g6Rsy7+plV/SAxsw==",
+      "subType": "03"
+    }
+  },
+  "position": 13,
+  "section_name": "FOR 10 & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "xA+iz2fCTxSRu/BoupIKpA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q30",
+      "title": "30. Is there a member of the HH that is a solo parent ? Is he/she registered ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "vhfEMJSPRTSfcnKHhROq3A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select One",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Registered Solo parent",
+            "Non-Solo Parent",
+            "Unregistered Solo Parent"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 1
+},
+{
+  "_id": {
+    "$oid": "636dfbb8520e4aa15e6010f3"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:37:27.960Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.659Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "JvNBrMkORnGRRWDDhztqaQ==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "Q0TC44g6Rsy7+plV/SAxsw==",
+      "subType": "03"
+    }
+  },
+  "position": 14,
+  "section_name": "FOR 60 & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "FcNXpuCcS36NosH7EW7Y0w==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q31",
+      "title": "31. Is ___ a registered senior citizen ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "B8fBOkdKScKmEURC33WEOA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select One",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 1
+},
+{
+  "_id": {
+    "$oid": "636dfbc5520e4aa15e6010f4"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:37:41.909Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.601Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "IzU3DuZHS8qpcqml6YS/eQ==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "Q0TC44g6Rsy7+plV/SAxsw==",
+      "subType": "03"
+    }
+  },
+  "position": 15,
+  "section_name": "FOR 15 & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "eeGVYUZuS325GwQK3iR5hA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q32",
+      "title": "32. In what barangay is ___ a registered voter ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "zKGsSNefS1WX308EZyqOMw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the barangay",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 1
+},
+{
+  "_id": {
+    "$oid": "636dfbd0520e4aa15e6010f5"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:37:52.669Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.542Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "pLYW+gFFQvaoiJulK6fKJw==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "M3lhoLlEQzS22a5ZBRXGTQ==",
+      "subType": "03"
+    }
+  },
+  "position": 16,
+  "section_name": "FOR ALL HOUSEHOLD MEMBERS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "Gf8NmQkRR1ud8hHBw6zO/g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q33",
+      "title": "33. In what barangay and city / municipality did ____ reside  five years ago ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "gsFTfAMoRdOnqWuCSSPh4A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter city / Municipality",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "CKud3sH6TXivVPjUobZqng==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter barangay",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "JPCGybABQAKbWIkm1XYBJg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q34",
+      "title": "34. In what barangay and city / municipality did ____ reside six month ago ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "FQhAOLfdT8ySbb2q2y8abg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter city / Municipality",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "f9RDo9KaTRuFg3OFJZ0d7Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter barangay",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "KmprwtQxRB2WYUt4NnPf1Q==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q35",
+      "title": "35. How long is ____ been staying in this barangay ? No. of years / No.of months ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "fMtbyfyQSUS+8Zw3Iz2Auw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Select the number of years",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 4
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "qYD1/AHQSdW+obIZnQVZfg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Select the number of months",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "RSWJjmNiQly9DagstRTCtg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q36",
+      "title": "36. Indicate if Non - migrant , Migrant or Transient ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "bZLNT1LJS7aBzYOTxLUXPg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Non-Migrant",
+            "Migrant",
+            "Transient"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 4
+},
+{
+  "_id": {
+    "$oid": "636dfbdb520e4aa15e6010f6"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:38:03.579Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.836Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Sy0J06tDRdKssYBp0TUFAw==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "M3lhoLlEQzS22a5ZBRXGTQ==",
+      "subType": "03"
+    }
+  },
+  "position": 17,
+  "section_name": "FOR MIGRANTS AND TRANSIENTS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "jg1p/0fmQ5ym8kOlP24VdA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q37",
+      "title": "37. When did ____ transfer in the barangay ? MM / YYYY  ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "CbXfwIfuS3CIeSeLOTIdJw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "MM",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "ql3FpSM0RuGrDOGIOTeV4Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "YYYY",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 4
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "W/Fo7lJvRS2SuYkTE7Azxw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q38",
+      "title": "38. What are the reason’s why ____ left his/her previous residence ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "R3f0FarOQmyM5TSqhp8fyA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "multiselectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Lack of employment",
+            "Perception of better income in other place",
+            "Schooling",
+            "Presence of relatives and friends in other place",
+            "Employment/Job Relocation",
+            "Disaster-related Relocation",
+            "Retirement",
+            "To live with Parents",
+            "To live with Children",
+            "Marriage",
+            "Annulment/Divorce/ Separation",
+            "Commuting-related Reasons",
+            "Health-related Reasons",
+            "Peace and Security",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "QwjYk3KVS1++ZvSgUhXvAA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 2
+},
+{
+  "_id": {
+    "$oid": "636dfbe5520e4aa15e6010f7"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:38:13.767Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.776Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "CyW+yxzYR2G78N782J2Zpg==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "o9kD+/waT7uwJAXchVaV/A==",
+      "subType": "03"
+    }
+  },
+  "position": 18,
+  "section_name": "FOR MIGRANTS AND TRANSIENTS",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "jMdCSuM9RCCOY1VN/fOylQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q39",
+      "title": "39. Does ____ plan to return to previous residence ? When ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "5txHyTWGSt2Rj8yNw0UudQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select Yes / No",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "rfFHwhtxQdy27zNK2AMo3w==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the response",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "1C/kVBqzTeioeQxg/tkZnA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_datepicker",
+          "placeholder": "Select date",
+          "position": 3,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Select a date to proceed",
+          "options": null,
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "H1/fD+/fSVyStu2dT3nmRQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q40",
+      "title": "40. What are the reason’s why ____ transferred in this barangay?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "fHm0Peg9R9a6PADtTYs9+Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "multiselectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Availability of jobs",
+            "Higher wage",
+            "Presence of schools or universities",
+            "Presence of relatives and friends in other place",
+            "Housing",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "WoQxX/MFQMuuCsR39tItoA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "PfZYHDpQT3+nntFJguTS6w==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q41",
+      "title": "41. Until when does ___ intend to stay in this barangay?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "34ntzMM1Qe+4aS6W9v4H4A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 3
+},
+{
+  "_id": {
+    "$oid": "636dfbf4520e4aa15e6010f8"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:38:28.584Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.907Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6WckIspFQB2aW0GhjfH7+g==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "RyoU4yqAQLevShLiUkhsPA==",
+      "subType": "03"
+    }
+  },
+  "position": 19,
+  "section_name": "FOR 18 & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "y3tKlwtWQ++6uSsb9MkP3g==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q42A",
+      "title": "42 A. Does ___ have a valid CTC ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "CwbBuQgNR4u3j4xOW8n3Tw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select Yes / No",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "tONa4qwNQfmahTN6d2FgXg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If no, enter the response",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "DGg7PsGPQGqRZoCnfA6Wlw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q42B",
+      "title": "42 B. Was the CTC issued in this barangay ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "vbg7PoEeQ/ilKn0YKa83Pw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 2
+},
+{
+  "_id": {
+    "$oid": "636dfc00520e4aa15e6010f9"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:38:39.957Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.717Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "YTrdk55gTSu7GrI6ucS05w==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "PH5ennzNR3afCOFO3cEVtA==",
+      "subType": "03"
+    }
+  },
+  "position": 20,
+  "section_name": "FOR 15 & ABOVE",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "ti0xuzYWQteC1FSq9VRe/w==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q43",
+      "title": "43. What type of skills development training is ____ interested to join in?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "C7rAShmZRy6mUe5AiEo+0A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the response",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "/IipaYG7RGim7UJMODaD+A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q44",
+      "title": "44. What type of skills do you have?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "GxLWzc6cQbq2H2inDHivBw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "multiselectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select atleast one option to proceed",
+          "options": [
+            "Refrigeration and Airconditioning",
+            "Automotive/Heavy Equipment Servicing",
+            "Metal Worker",
+            "Building Wiring Installation",
+            "Heavy Equipment Operation",
+            "Plumbing",
+            "Welding",
+            "Carpentry",
+            "Baking",
+            "Dressmaking",
+            "Linguist",
+            "Computer Graphics",
+            "Painting",
+            "Beauty Care",
+            "Commercial Cooking",
+            "Housekeeping",
+            "Massage Therapy",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "KzlhRrFWTHGnDsLyZt8LJg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Others",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": true,
+  "anscount": 0,
+  "qcount": 2
+},
+{
+  "_id": {
+    "$oid": "636dfc0f520e4aa15e6010fa"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:38:55.030Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.428Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "yUIPSTVMTJCHGM5d44xOmA==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "r0wgRuMTSFqXbbY0d1gCkA==",
+      "subType": "03"
+    }
+  },
+  "position": 21,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "vXIp7P8fR8WiCYMjzTVz8w==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q45",
+      "title": "45. Do you have own or amortize this housing unit occupied by your household or do you rent it, do you occupy it rent free with consent of owner or rent-free without consent of owner?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "ZGx/4DuyQ9OrYl2QLLAEEg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Rent-free without consent of owner",
+            "Rent-free with consent of owner",
+            "Rented",
+            "Owned/being amortized"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "moYpXSZCRXiwsNopgffkhA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q46",
+      "title": "46. Do you own or amortize this lot occupied by your house hold or do you rent it, do you occupy it rent-free with consent of owner or rent-free without consent of owner?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "WnBEw+BMR4uRYe8FiQXo8g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Rent-free without consent of owner",
+            "Rent-free with consent of owner",
+            "Rented",
+            "Owned/being amortized"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "LGntC4EEQ1yQ3BXjbT8Rug==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q47",
+      "title": "47. What Types Of Fuel Does The Household Use For Lighting?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "InjmiPQgSeysvker+S1E9A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "None",
+            "Oil (vegetable, animal, others)",
+            "Liquefied petroleum gas (LPG)",
+            "Kerosene (gaas)",
+            "Electricity",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "ZM1IVHiTTQW/dPf/AFcdGA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If others, please specify",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "0z3uyRuSSq2w6RkZ5OMnXw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q48",
+      "title": "48. What kind of fuel does this household use most of the time for cooking?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "GClKEu8FQUmwch8iBjbQ1A==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "None",
+            "Wood",
+            "Charcoal",
+            "Liquefied petroleum gas (LPG)",
+            "Kerosene (gaas)",
+            "Electricity",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "35JDzLoiSTi/2cOYDKLM2w==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If others, please specify",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "rVTVxFEDSC+TMlmzK2zNGA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q49",
+      "title": "49. What is the household’s main source of drinking work?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "FlhqJiOxRfuZYT1GgjCarA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Lake, river, rain, others",
+            "Dug well",
+            "Unprotected spring",
+            "Protected spring",
+            "Peddler",
+            "Tubed/Piped shallow well",
+            "Shared, tubed/piped deep well",
+            "Own use, tubed/piped deep well",
+            "Shared, faucet community water system",
+            "Own use, faucet community water system",
+            "Bottled water",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "aEAuZTpxSbml+O6wClV4EA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If others, please specify",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 5
+},
+{
+  "_id": {
+    "$oid": "636dfc1c520e4aa15e6010fb"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:39:08.498Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.310Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "YrZZYbb3ShuZEZGDhT2Gqw==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "77KmKaMqT3SP6+vo5Z4jgA==",
+      "subType": "03"
+    }
+  },
+  "position": 22,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "G/wzrRoYTLyq5TAn3b8ZTg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q50A",
+      "title": "50 A. How does your household usually dispose of your kitchen garbage such as leftover food, peeling of fruits and vegetables, fish and chicken entrails, and others ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "tL1GsLNuSryewUaUa5QRrA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select atleast one option to proceed",
+          "options": [
+            "Feeding to animals",
+            "Burying",
+            "Composting",
+            "Burning",
+            "Dumping individual pit (not burned)",
+            "Picked-up by garbage truck"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "OqVN6+B0TtO9xFSkcitO6A==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q50B",
+      "title": "50 B. Do you segregate your garbage ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "4TOUxHvLQdWXfgZ6AzvT1g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "xHnXN8vJT5yvtwIY4Z2JiQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q51",
+      "title": "51. What type of toilet facility does this household use ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "DXcr5ewFTKy6btJJe0ffzQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "None",
+            "Open pit",
+            "Close pit",
+            "Water-sealed, other depository, shared",
+            "Water-sealed, other depository, exclusive",
+            "Water-sealed, sewer septic tank, shared",
+            "Water-sealed, sewer septic tank, exclusive",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "aCWqauiATq2qy99S5cruHQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If others, please specify",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "FbRIwVQmSYeBW7V8bUa8Fw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q52",
+      "title": "52. Type of building / house (Do not ask, observation only)",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "11G6b8xdQxCFJzvH95g+Rw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed.",
+          "options": [
+            "Single house",
+            "Duplex",
+            "Multi-unit residential (three units or more)",
+            "Commercial/industrial/agricultural",
+            "Institutional living quarter (hotel, hospital)",
+            "Other housing units (boat, cave, others)"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "9n6qqOG4RDurufCcTvGBnQ==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q53",
+      "title": "53. Construction materials of the outer wall (Do not ask, observation only)",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "K6d/R7HwS2CeM5XDLhdwMg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select one",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed.",
+          "options": [
+            "No walls",
+            "Makeshift/salvaged/improvised materials",
+            "Glass",
+            "Asbestos",
+            "Bamboo/Sawali/Cogon/Nipa",
+            "Galvanized iron/aluminum",
+            "Half concrete/brick/stone and half wood",
+            "Wood",
+            "Concrete/brick/stone",
+            "Others"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "LaKQ3h2RSiWvYOckkpXOFg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "If others, please specify",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 5
+},
+{
+  "_id": {
+    "$oid": "636dfc2b520e4aa15e6010fc"
+  },
+  "created_at": {
+    "$date": "2022-11-11T07:39:23.433Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-05T02:52:52.969Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "BsJtTdKRSLSjUC9AWBpeQQ==",
+      "subType": "03"
+    }
+  },
+  "survey_master_id": {
+    "$binary": {
+      "base64": "+p9Ue0YXQ/i/Viltb+qBmw==",
+      "subType": "03"
+    }
+  },
+  "position": 23,
+  "section_name": "",
+  "is_enable": true,
+  "questions": [
+    {
+      "id": {
+        "$binary": {
+          "base64": "bJXTnaf/Sl6COmCXL16Vtw==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q54",
+      "title": "54. Do you have any female HH member who died in the past 12 months ? How old is she and what is the cause of her death ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "oEXQStnPS8CTrJJVRIaAVQ==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select Yes / No",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "9Hid5KyISrqSK8ewQ/1K0g==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the age",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid age to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "RoQhCg7ZQaucfCiTsvazdA==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the cause of death",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 1,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "51Xt1iXlSIWS6WaclwW9CA==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q55",
+      "title": "55. Do you have a child HH member below 5 years old who died in the past 12 months ? How old is she/ he What is the cause of her / his death ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "jksD8RtUR2m2mHCq5SNzNg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "selectbox",
+          "placeholder": "Select Yes / No",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please select an option to proceed",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "mRrFZ8VGTuucJYNREk9TDw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the age",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid age to proceed",
+          "options": null,
+          "keyboard_type": "number",
+          "limitation": 2
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "PBBqqu89TEOYHAfAk6fbDw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_selectbox",
+          "placeholder": "Select sex",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid sex to proceed",
+          "options": [
+            "Male",
+            "Female"
+          ],
+          "keyboard_type": null,
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "kXtVJS8lQkSAlq4pLrph+Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "other_textbox",
+          "placeholder": "Enter the cause of death",
+          "position": 3,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 2,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "u2e5kkzgQ4eGWC2HlFHX/Q==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q56",
+      "title": "56. What are the common diseases that causes death in this barangay ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "BkWylkduTCaTcqy9WhGdiw==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the disease name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 3,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "vlluWPT6TBSGMHy6G9k1gg==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q57",
+      "title": "57. What do you think are the primary needs of this barangay ?",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "uOtsN3iLRw+ZcKUv1b7aFg==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the disease name",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter an answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 4,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    },
+    {
+      "id": {
+        "$binary": {
+          "base64": "EHn+jM7aRQGrCv1nJTA7Ng==",
+          "subType": "03"
+        }
+      },
+      "qno": "Q58",
+      "title": "58. Where does your household intend to stay five years from now",
+      "is_required": true,
+      "qn_ranking": null,
+      "answers": [
+        {
+          "id": {
+            "$binary": {
+              "base64": "JiR+ZA8lRh6sbDJJvIwH1Q==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the Barangay",
+          "position": 1,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "Z60901RTTw6wqkasD8t0Ng==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the City/ Municipality",
+          "position": 2,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        },
+        {
+          "id": {
+            "$binary": {
+              "base64": "/lwMa4nuQdqxr9U92PN7Ig==",
+              "subType": "03"
+            }
+          },
+          "dtype": "textbox",
+          "placeholder": "Enter the Province",
+          "position": 3,
+          "answer_value": null,
+          "is_error": false,
+          "error_message": "Please enter a valid answer to proceed",
+          "options": null,
+          "keyboard_type": "text",
+          "limitation": null
+        }
+      ],
+      "position": 5,
+      "is_read_only": false,
+      "is_approved": false,
+      "is_rejected": false,
+      "reject_reason": null,
+      "approved_date": null,
+      "rejected_date": null,
+      "created_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "updated_at": {
+        "$date": "2022-11-11T00:00:00.000Z"
+      },
+      "is_deleted": 0
+    }
+  ],
+  "is_subheader": false,
+  "anscount": 0,
+  "qcount": 5
+}]

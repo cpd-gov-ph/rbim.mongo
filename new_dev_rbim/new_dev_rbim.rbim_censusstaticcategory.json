@@ -1,0 +1,7448 @@
+[{
+  "_id": {
+    "$oid": "641802e9593f2626ea7a93fc"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:29.265Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:29.265Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DQTM7Lh8Qi2gm9pXRhSBtA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641802e9593f2626ea7a93fe"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:29.610Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:29.610Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wzpcfZUxT/+vho7JeDmDqQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641802e9593f2626ea7a9401"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:29.709Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:29.709Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8XiZ2nE3S9in4udXLeWoaQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641802e9593f2626ea7a9403"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:29.773Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:29.773Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8mscHlmBQhakI22M+v/isw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "641802eb593f2626ea7a941f"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:31.178Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:31.178Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "cg/o+cPzTv28R3AzIn/P6Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641802eb593f2626ea7a9421"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:31.242Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:31.242Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oZXSiN+2RKCs7wA+cv6HPw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641802eb593f2626ea7a9423"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:53:31.303Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:53:31.303Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "5JRosG/nRR+1DnlFl2ZDOg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "KJRiOxHVQimazWYfwBdvNQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418036312e428c3a0603cfa"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:31.451Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:31.451Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "w7/IgK3US3G0QsNg73s0Kg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418036312e428c3a0603cfc"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:31.882Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:31.882Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "auSoaMkcSkOuK/4o5eVSoA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418036312e428c3a0603cff"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:31.979Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:31.979Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "p5uaTL5NRPCt8fAt+qugvQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418036412e428c3a0603d01"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:32.043Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:32.043Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "u9nuS1EUTf+Q1Qahm14qOA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418036512e428c3a0603d1d"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:33.399Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:33.399Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "4pibhPsDSniuVFFyczoUxA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418036512e428c3a0603d1f"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:33.461Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:33.461Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "BIQsIImmSHGLllu0+C6PPg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418036512e428c3a0603d21"
+  },
+  "created_at": {
+    "$date": "2023-03-20T06:55:33.520Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T06:55:33.520Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Omk7WWh2R1ebZMmfwSqR1w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TkM6bwYHROSjVSOWj1QS+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806cc12e428c3a0603d3e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:03.756Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:03.756Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "sJ6wI8enRAiXdYfO77Kx0A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806cc12e428c3a0603d40"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:04.100Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:04.100Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Z/uQPlWTS8q7OZsxIMFvhQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806cc12e428c3a0603d43"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:04.207Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:04.207Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/5qJ186USAeFMOaDTsU7xg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806cc12e428c3a0603d45"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:04.276Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:04.276Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "48Ov84ztRvyYtv/3N3vWrw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "641806cd12e428c3a0603d61"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:05.636Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:05.636Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "cT/HcWHLSNGe1c1vA+dMNw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806cd12e428c3a0603d63"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:05.695Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:05.695Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0yHA94H5TSi0FjdIDv1KzQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806ce12e428c3a0603d65"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:06.065Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:06.065Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "m51pGskKTzGyTMXrn+5w5A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "u/cIokvaQ7Skn3qqHYAJRQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806f012e428c3a0603d69"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:40.683Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:40.683Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ibE5Yxd6TuO7o+KfrdRUIQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806f012e428c3a0603d6b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:40.746Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:40.746Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ry2enPpfTSiN4CHWr7wYZg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806f012e428c3a0603d6e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:40.840Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:40.840Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "D0UTaj9NRWm3EKo3hTGInA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806f012e428c3a0603d70"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:40.903Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:40.903Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7s4nfMENTtimnSOBx0LFXQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "641806f212e428c3a0603d8c"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:42.073Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:42.073Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dEjvXANwT8m8FJmLEjSilw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806f212e428c3a0603d8e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:42.403Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:42.403Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wfhU/xlJRSmre3C9eimj+g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806f212e428c3a0603d90"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:42.464Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:42.464Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "tD0JxMSGSm6tiT9f77ThoA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "p1IiL1JyQoSFTD3fhOB0uQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806fc593f2626ea7a9457"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:52.478Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:52.478Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7DFxhQbIQP+VjH2KjAUCTg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806fc593f2626ea7a9459"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:52.538Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:52.538Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2i7NIaY7RY+lFxnxx+zHZQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806fc593f2626ea7a945c"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:52.631Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:52.631Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Ij+TrqkQQfuaMHrbk7I+NA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641806fc593f2626ea7a945e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:52.691Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:52.691Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2BAnmfVYQWmPvSkRVXHlfQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "641806fe593f2626ea7a947a"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:54.063Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:54.063Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "OijeidqKS7K/dYy71BnpWA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641806fe593f2626ea7a947c"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:54.122Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:54.122Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oXxxVcfeS2m7l06pX4kvtw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641806fe593f2626ea7a947e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:10:54.182Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:10:54.182Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+8Cwog+3QoeD/8ETfoL22w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "zLJQX8G2RbaOeG0JDuhxUw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180708593f2626ea7a9482"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:03.719Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:03.719Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "5wZ8rp/tR9CJYdXLkIpQLw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180708593f2626ea7a9484"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:04.079Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:04.079Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xtKqJ1rbSqWavZsd7vNYCA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180708593f2626ea7a9487"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:04.178Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:04.178Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3zDOXg1JTL6nFfMiEzfkrQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180708593f2626ea7a9489"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:04.242Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:04.242Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+tWXYs2eQWOSaaTEdcoxYw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180709593f2626ea7a94a5"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:05.618Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:05.618Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oBQz5GP6QuSDaORgsLbYpw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180709593f2626ea7a94a7"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:05.677Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:05.677Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bC4cjBOPSkCofvedB/xNUg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180709593f2626ea7a94a9"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:05.738Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:05.738Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "I0DAYT/EQNGFRJyyuM5kOw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TDdDE18HSWO1L2031x9Q3g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180716593f2626ea7a94ad"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:17.829Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:17.829Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "yhRBw7MwRKK5GZniGqNBUg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180716593f2626ea7a94af"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:18.197Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:18.197Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "gJ5W2tULR/yZbwY3SndSGg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180716593f2626ea7a94b2"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:18.298Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:18.298Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/gj0jPHxST2nAuOVZf0x4Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180716593f2626ea7a94b4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:18.371Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:18.371Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xqhKEvX9SsGGYlHrl9GalA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180717593f2626ea7a94d0"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:19.675Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:19.675Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Htqnp3L3RZmqE+3BjJqgnw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180718593f2626ea7a94d2"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:19.739Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:19.739Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ffKIjYCFTQulv2blvmFrDA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180718593f2626ea7a94d4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:20.176Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:20.177Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "y3Xkh9zMT0qoYc+1uiLU6A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "K2x/ZHW4T5eGO2/5OCj5SQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180727593f2626ea7a94d8"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:35.364Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:35.364Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "p+hTYCBJRfONf46/mzLC0w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180727593f2626ea7a94da"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:35.814Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:35.814Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "galKiCNLTqGpJ8ly7cjEGg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180727593f2626ea7a94dd"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:35.922Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:35.922Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bbfBCrw+Q5u5uzJRNUat5A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180727593f2626ea7a94df"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:35.982Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:35.982Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GardsTM/TjqriN+hSxJUAg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180729593f2626ea7a94fb"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:37.320Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:37.320Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "EbtE2OrKS+6f20I5InMLNA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180729593f2626ea7a94fd"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:37.382Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:37.382Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "arT6RWdBSpaLOl4xRyGkfw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180729593f2626ea7a94ff"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:37.442Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:37.442Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "QkOcu8xUQyKjXIwiYQ6GaQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "esqo1/S6Qj2lxnXR9DivZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180736593f2626ea7a9503"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:50.353Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:50.353Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ORKySKEnTHOSop35e24+ww==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180736593f2626ea7a9505"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:50.414Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:50.414Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "QhGRomxXTyyKM11koJF3Gw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180736593f2626ea7a9508"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:50.521Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:50.521Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ta9MJhiWTj2fVVUSQrKPZA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180736593f2626ea7a950a"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:50.586Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:50.586Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vhxBbGrXQ2KwPc3Nv0UfjA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180737593f2626ea7a9526"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:51.923Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:51.923Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "XjlV6aMASxe/47Szep3tOw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180737593f2626ea7a9528"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:51.981Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:51.981Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "10hcJnJETgKsLpkC5wnD8Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180738593f2626ea7a952a"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:11:52.395Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:11:52.396Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "55CgiS5kRTGLj/UHOUke6A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "GdfvpZPQQX+MMLWMUAqkpQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180743593f2626ea7a952e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:03.597Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:03.597Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "XK0hpQkgRoOiWHMcj8ZtgQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180744593f2626ea7a9530"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:04.001Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:04.001Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "9ULF+EAkTNOrVcwn1B6gAA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180744593f2626ea7a9533"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:04.100Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:04.100Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2jq5XRQHTACA2MvTRnmdqA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180744593f2626ea7a9535"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:04.164Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:04.164Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "xnspA44QRCCCWXtvE3jJSQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180745593f2626ea7a9551"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:05.528Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:05.528Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bPB9gjEjQRC0xm/sr64/7A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180745593f2626ea7a9553"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:05.591Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:05.591Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "or2fFITMS2qyeeSlnBD/eA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180745593f2626ea7a9555"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:05.961Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:05.962Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "krpUAOmMTOOanfl0DWxGVg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qjPxWwwuQMudtruzdmYwBg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418074d593f2626ea7a9559"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:13.152Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:13.152Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "9Gr8wzMzROGqxWf2GQZfPA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418074d593f2626ea7a955b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:13.599Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:13.599Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "YDDNKprZR2ysmEVJ+/QewA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418074d593f2626ea7a955e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:13.698Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:13.698Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "v/Fs3ASzS3WNnJ3Y4Y7fMQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418074d593f2626ea7a9560"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:13.759Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:13.759Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "aWuuz39ATFutx7Lt+Q6+xw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418074f593f2626ea7a957c"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:15.110Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:15.110Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vE0jggv1QhWzCbXhDjbmBA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418074f593f2626ea7a957e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:15.172Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:15.172Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GSga5MDnQX6buGuVdRSSWg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418074f593f2626ea7a9580"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:15.232Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:15.232Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7G5e39FORuOefgoWNAVl9Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "qCUJvBuTRTqaAzjrs6Od7w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418075c593f2626ea7a9584"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:28.286Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:28.286Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GyWplUg7RzeIrvfGjeNo0A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418075c593f2626ea7a9586"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:28.656Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:28.656Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "XVezV5iPSam7nA0lOeh+ig==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418075c593f2626ea7a9589"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:28.749Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:28.749Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DSTOaIudSqCfY5IRfKOgmw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418075c593f2626ea7a958b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:28.814Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:28.814Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "nwAwEu8yQVKXRBAlk/n64A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418075e593f2626ea7a95a7"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:30.193Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:30.193Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HVw7ZV4oSLGG9IGO9ryI4Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418075e593f2626ea7a95a9"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:30.253Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:30.253Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "sfFDau6MST+lUwLCqS45Tg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418075e593f2626ea7a95ab"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:30.312Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:30.312Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "BsL7T6dGQ3eKlJNn3m23Vg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "pQ5G0KMcSxGxh9zt/lNIIg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180765593f2626ea7a95af"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:37.357Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:37.357Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Q1h5vi2TQg+mblFEV9Oj3A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180765593f2626ea7a95b1"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:37.794Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:37.794Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0wgK5Vn2R52brRCi79cevw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180765593f2626ea7a95b4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:37.892Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:37.892Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "p3MtaLZxTAKkpA0iSwo3MA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180765593f2626ea7a95b6"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:37.952Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:37.952Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "OvsxoUcKR1ufGiqgtk+jSg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180767593f2626ea7a95d2"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:39.321Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:39.321Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "FjEqIexaQS+PwAvCc8yvdg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180767593f2626ea7a95d4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:39.387Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:39.387Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/uWkAqNqRbiVEBBdMSOl3w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180767593f2626ea7a95d6"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:39.448Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:39.448Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZxzUvstiQGaPt4S2sIo02w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "jXqNcTXnTNmet3uQG6J2oQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418077812e428c3a0603d94"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:56.244Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:56.244Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "iKKjpgNmQ0iNg4M8eC8NvA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418077812e428c3a0603d96"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:56.698Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:56.698Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "uV7ITiWBRAiyAxmyS64xPQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418077812e428c3a0603d99"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:56.797Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:56.797Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "V1/FnwnNQ6eB7p7/ESYepQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418077812e428c3a0603d9b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:56.857Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:56.857Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "id5yrmcMSOWmwVlf5eqo0Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418077a12e428c3a0603db7"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:58.245Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:58.245Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "LMXOr/t5RDuZF33lAmYnuQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418077a12e428c3a0603db9"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:58.306Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:58.306Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "J6c+HCB7RaCtnJPAIUtG+g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418077a12e428c3a0603dbb"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:12:58.369Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:12:58.369Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ZCg6RAF9TlWSuulUEwwmNQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Gz1q2avWTgWZL9DZDRBw+g==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418078268101aaf61eceb49"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:06.554Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:06.554Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "c580ieILSXKa8gZW9JRvnA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418078368101aaf61eceb4b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:07.077Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:07.077Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HO3wJAeESF+DsVjnCsmF4g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418078368101aaf61eceb4e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:07.170Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:07.170Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "WrT/yNgeSVCRbGOkMHp6rg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418078368101aaf61eceb50"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:07.270Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:07.270Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b/jcMr/RQLiFOOAiW9zn4w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418078468101aaf61eceb6c"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:08.500Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:08.500Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "CxBDPX2+TLS2tJ74kSh6HA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418078468101aaf61eceb6e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:08.926Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:08.926Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "u8q9R+BhRGKSww5nwDgIRA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418078468101aaf61eceb70"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:08.986Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:08.986Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "iWE6LUtYTGOzNid4u7dbkQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "dElhrgctRk+aOUuEU2V6FA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418079612e428c3a0603dbf"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:26.399Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:26.399Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "PhXb4UQbQaKP/ZtzxQdFfA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418079612e428c3a0603dc1"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:26.762Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:26.762Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "9fgFrruzQpO5yjBxwoJupw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418079612e428c3a0603dc4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:26.855Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:26.855Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2fa4W1zcSIi+CGW1cSU42g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418079612e428c3a0603dc6"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:26.917Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:26.917Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "4/pKwnrGSx2bfFb2cA97nQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6418079812e428c3a0603de2"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:28.273Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:28.273Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2sOK+bVCRZWRtVmeUcJEuw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418079812e428c3a0603de4"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:28.331Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:28.331Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "aIACnBgFQgyu5A3WxPJn6w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418079812e428c3a0603de6"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:28.392Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:28.392Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "iEuFFEpiSBC16ERIKER6+w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "gGfRu0GZSBKJ4PhGQqwbcQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641807a112e428c3a0603dea"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:37.485Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:37.485Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "aXdP9ZFdQ123cgfuJ4lEHA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641807a112e428c3a0603dec"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:37.912Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:37.912Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "y0SJTK2iSxO/+fomn32FyA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641807a212e428c3a0603def"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:38.004Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:38.004Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "TgHNaK7RSPGtLtQgdEjDdg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "641807a212e428c3a0603df1"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:38.066Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:38.066Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Ss7e9WjERD6wuMfow06mFQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "641807a312e428c3a0603e0d"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:39.403Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:39.403Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "sJHDnonTT7adTQ1yOVNibA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "641807a312e428c3a0603e0f"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:39.474Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:39.474Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1px4nNTZQBCUGGwybsn/Hg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "641807a312e428c3a0603e11"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:13:39.534Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:13:39.534Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hfcurl7oS4KtEths0KQQfA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ys8POLX5Sr+uVByROUjW+Q==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180c7012e428c3a0603e2b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:08.201Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:08.201Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/raaSddUSh+16Iqaf0Jn1Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180c7012e428c3a0603e2d"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:08.630Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:08.630Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "KPd320k/TTyCOll7sCJmFg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180c7012e428c3a0603e30"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:08.731Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:08.731Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "X5RnFv4hQyGFVoswSVHbMw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64180c7012e428c3a0603e32"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:08.792Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:08.793Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8mg5oCO2SK256b7K1rwsaA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64180c7212e428c3a0603e4e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:10.169Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:10.169Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "EJ93LIXiRg6yp5AVMn/TCQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64180c7212e428c3a0603e50"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:10.231Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:10.231Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "x35RK+uNR42Tm5SK1lpZaw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64180c7212e428c3a0603e52"
+  },
+  "created_at": {
+    "$date": "2023-03-20T07:34:10.291Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T07:34:10.291Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Sa6kLFseTCyOjlW2YGOq5A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rLw17qw5TxyhX0Vd9PEVZw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64183d4f68101aaf61eceb99"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:39.474Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:39.474Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1XBqiniWQviaqF+AqO7iZw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64183d4f68101aaf61eceb9b"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:39.820Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:39.820Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "1rHgHI4KRCOTlLTg4CFI7g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64183d4f68101aaf61eceb9e"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:39.915Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:39.915Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DOP8VUN7RaaU6ZEboI+TzA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64183d4f68101aaf61eceba0"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:39.981Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:39.981Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "BUjtbLbkRmaNYPY12TJejA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64183d5268101aaf61ecebbc"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:42.371Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:42.371Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "VbohaGSwQRmFafeUB/uCjg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64183d5268101aaf61ecebbe"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:42.431Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:42.432Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "85lc47RwTTaYiFGCpOuBLg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64183d5268101aaf61ecebc0"
+  },
+  "created_at": {
+    "$date": "2023-03-20T11:02:42.495Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T11:02:42.495Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Tt3LgWRcSHy33fyMh7fm8A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "2rC9HokTS+u5TWhtjHNqpg==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418624e593f2626ea7a95fc"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:30.597Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:30.597Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GEmdIzFHS2GU6ZL3z6LC4w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6418624f593f2626ea7a95fe"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:31.037Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:31.037Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "AbIGpDY/TVmm5VYg9RHfQQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6418624f593f2626ea7a9601"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:31.135Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:31.135Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "haXOfHw6R+ydmVUKGMKYHg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6418624f593f2626ea7a9603"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:31.211Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:31.211Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/TPp+qgdQKm5DLckrYXH8A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64186251593f2626ea7a961f"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:33.950Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:33.950Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "48y9orPsR86Fejie8uON0A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64186252593f2626ea7a9621"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:34.011Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:34.011Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+uaqX3YPQFil/X7uU+PFWA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64186252593f2626ea7a9623"
+  },
+  "created_at": {
+    "$date": "2023-03-20T13:40:34.072Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-20T13:40:34.072Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Z6p1RoWrSxyIpHlVSLzsuQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "TGHxNIzhRsOdlENHqKKCyA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64198d6412e428c3a0603e77"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:36.674Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:36.674Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "iVSzpS27TemAExXvkWXCxw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64198d6512e428c3a0603e79"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:37.025Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:37.025Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dk4/szVLQqu+URUw+79O6Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64198d6512e428c3a0603e7c"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:37.120Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:37.120Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "5g1gT/6AS/yOZMGi9WipBg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64198d6512e428c3a0603e7e"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:37.184Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:37.184Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ANtkBKwST7GM2gut+/hJtg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64198d6612e428c3a0603e9a"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:38.574Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:38.574Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "GStPmt/9RYaZd08IsTVpZQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64198d6612e428c3a0603e9c"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:38.633Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:38.633Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wif7aEumQyCRP6aiFaupfw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64198d6612e428c3a0603e9e"
+  },
+  "created_at": {
+    "$date": "2023-03-21T10:56:38.692Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-21T10:56:38.692Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "rMDvfF1pS923Sket5x2tQQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "VzFYhjtRSuecdA+GnJwXcw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6436524281e1a0190076485a"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:01.698Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:01.698Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "45WgY9PVRhuvhEgb+seFYg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6436524281e1a0190076485c"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:02.125Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:02.125Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "XUAiksJCRLeSsMGmRdBF3A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6436524281e1a0190076485f"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:02.230Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:02.230Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vIxPxKeLSImFt3rc7Vzawg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6436524281e1a01900764861"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:02.310Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:02.310Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "qU/OcbKXSrSeZhIeKLLsPw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6436524581e1a0190076487d"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:05.207Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:05.207Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "l3vFUCR5RMOVWsHb64mSmA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6436524581e1a0190076487f"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:05.279Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:05.279Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hjIUoc0wSvSxJbGc57gRsg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6436524581e1a01900764881"
+  },
+  "created_at": {
+    "$date": "2023-04-12T06:40:05.358Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T06:40:05.358Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Hdx4VezZTcqIp4GTLUHt4A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "lNyAoEyzQ+yQpVqjlLpoxw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64369cb3ebb09d06f00fa0fb"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:39.511Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:39.511Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "M2J/agdiRaOpJ1zlypCzOw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64369cb3ebb09d06f00fa0fd"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:39.842Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:39.842Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vAsg26ejTo2H5MH02boLHw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64369cb3ebb09d06f00fa100"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:39.946Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:39.946Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "NDTbfTB7Rk23EFHx3wZKVg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64369cb4ebb09d06f00fa102"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:40.010Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:40.010Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dKaGcRR6QI2mRLA4/KJMrg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64369cb6ebb09d06f00fa11e"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:42.968Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:42.968Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "YFd5OeIOSniCCplgDUso/Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64369cb7ebb09d06f00fa120"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:43.031Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:43.031Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "cqeaFCNtT06yIYtZ5sT04Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64369cb7ebb09d06f00fa122"
+  },
+  "created_at": {
+    "$date": "2023-04-12T11:57:43.093Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T11:57:43.093Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "epE6NITgRYq1T6rV35n8mA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "PEsfk4DoRkuIKVWB3APttw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6436c44aad14331c0c134965"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:34.206Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:34.206Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+75QvsxDSMa/HqTszamiPw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6436c44aad14331c0c134967"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:34.626Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:34.626Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "MvmVO9M5Tx+L8idBIVHH5w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6436c44cad14331c0c13496a"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:36.170Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:36.170Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "h1aJUsMmTU2oiwEOVw+uug==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "6436c44cad14331c0c13496c"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:36.234Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:36.234Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "iRpsdOb5TEetDrbZi0YPyA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "6436c44dad14331c0c134988"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:37.570Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:37.570Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Jij+AF5bSWyUf44vwMJHJQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "6436c44dad14331c0c13498a"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:37.631Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:37.631Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ecio3ApaQeGGPLvti/ml4Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "6436c44dad14331c0c13498c"
+  },
+  "created_at": {
+    "$date": "2023-04-12T14:46:37.692Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-12T14:46:37.692Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7R/cyFgORjurN1wu039kWQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "ZbXed4QYSni99eQIKY6z+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d09a39a5a0faf27b4161d"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:03.526Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:03.526Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ToV3iO4gQti/PITwuoxxzQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d09a39a5a0faf27b4161f"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:03.700Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:03.700Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DXbTDtMySSucpO3FHMd9sw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d09a39a5a0faf27b41622"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:03.801Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:03.801Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "AS6uCa5bSC+EP1omDKAL6Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d09a39a5a0faf27b41624"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:03.865Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:03.865Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "uAzYsQ0TTVmmCLaV07yZqQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643d09a79a5a0faf27b4165a"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:07.304Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:07.304Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b34g+wM4RyabPWLPhH+RaA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d09a79a5a0faf27b4165c"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:07.368Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:07.368Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "f/sgccN5TGmiYoe6J+okOg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d09a79a5a0faf27b4165e"
+  },
+  "created_at": {
+    "$date": "2023-04-17T08:56:07.426Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T08:56:07.426Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ejQ1CjkwSRGiwMuCM1Okrw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "c1knV22TRpOm89938aeCxA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d0bda9a5a0faf27b41662"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:29.838Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:29.838Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "7VtU1EPmRlSa3MyvETPWVw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d0bda9a5a0faf27b41664"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:30.261Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:30.261Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "UVfYapphS/KIZ9ZB3jfrIA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d0bda9a5a0faf27b41667"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:30.365Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:30.365Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "mOh3Bcm9QySzel3qKPHN1g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d0bda9a5a0faf27b41669"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:30.431Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:30.431Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "N6YWdWCgR++H/nJ9LcPyQQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643d0bdb9a5a0faf27b41685"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:31.806Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:31.806Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6SA9haytRK+JQ1Ql+QiM7A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d0bdb9a5a0faf27b41687"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:31.876Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:31.876Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "roeEN+h7T/O6OsBY6yC4YA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d0bdb9a5a0faf27b41689"
+  },
+  "created_at": {
+    "$date": "2023-04-17T09:05:31.943Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T09:05:31.943Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Udp927MlR7GemlovEHuSjQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "IebwENpxRruAq1tEknkLUA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d35b0cf609473c2a7193f"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:00.307Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:00.307Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "94V93fK5S42T6HfoiY4gnA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d35b0cf609473c2a71941"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:00.659Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:00.659Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "l5oOsGBtT5q7EyHJhyVY6A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d35b0cf609473c2a71944"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:00.758Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:00.758Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "k+Rz8SLYQ2ukwl7vCzQ1ag==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d35b0cf609473c2a71946"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:00.822Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:00.822Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wGMUzEjsTN+C5RJ0uMo/pg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643d35b3cf609473c2a71962"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:03.322Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:03.322Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "whAPTCuhRYKrdr5mkBIjfg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d35b3cf609473c2a71964"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:03.386Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:03.386Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DmDTjyk5Q7O4JE2i/nfVdA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d35b3cf609473c2a71966"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:04:03.450Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:04:03.450Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "jg047mm/RZ2KZ5tV1KpEjg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "W2FQ9L7AQa+Kpo6OcVZtOA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d3bb3cf609473c2a7197f"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:39.497Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:39.497Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3bwOoV/NSkmCPcMQJG3Hzw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d3bb3cf609473c2a71981"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:39.959Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:39.959Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "jhIceDs3TNKxEc11iyN/6g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d3bb4cf609473c2a71984"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:40.055Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:40.055Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "hUIOW7fvRB6Dpq/c0aIxCw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d3bb4cf609473c2a71986"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:40.118Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:40.118Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "KcHmL+/VQkCK8hkOznwuTQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643d3bb6cf609473c2a719a2"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:42.374Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:42.374Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0OUIA7kMT8iqqkNRBEJa9A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d3bb6cf609473c2a719a4"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:42.436Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:42.436Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "eTR4V9Q+SvWR39PXrpc6LQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d3bb6cf609473c2a719a6"
+  },
+  "created_at": {
+    "$date": "2023-04-17T12:29:42.496Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T12:29:42.496Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "nSacNEHNRLW7W38yFBEnfQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "rjTjm1BBQHGDuiSl4SBZvw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d4c3e58ee6987b44036b8"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:14.573Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:14.573Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Ey4hj2kPRlOafcp74gjpTA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d4c3e58ee6987b44036ba"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:14.980Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:14.980Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "s34VreEWTLqxd6K4/12VJQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d4c3f58ee6987b44036bd"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:15.078Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:15.078Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "oH8o34jWQ5mY1kd+e2Rq+w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643d4c3f58ee6987b44036bf"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:15.143Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:15.143Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Py2+rJqGRjKf2h0E4s7v1w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643d4c4258ee6987b44036db"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:18.158Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:18.158Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dhXv1PRZQfGEJSKgzky+rw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643d4c4258ee6987b44036dd"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:18.219Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:18.219Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "XKD//j5LQV2LX6m42CSZ2Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643d4c4258ee6987b44036df"
+  },
+  "created_at": {
+    "$date": "2023-04-17T13:40:18.492Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-17T13:40:18.492Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "kxYj/4U2QSKy1axtoreHyA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "t1HnnOc/TJqd6jui1vpakQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e366af75d031fb3aa588d"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:22.213Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:22.213Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "NN79pdopSoS5Q1HCAs554g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e366bf75d031fb3aa588f"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:23.098Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:23.098Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "4mUrjxgXTq6J1hBCTDMG+Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e366bf75d031fb3aa5892"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:23.615Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:23.615Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "eYzAKGMxTEOu9lIu1VMMcQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e366bf75d031fb3aa5894"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:23.681Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:23.681Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2PMonx13Q1e+ZzBxaQU2qw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643e366df75d031fb3aa58b0"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:25.106Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:25.106Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ssRTbT2SRm6KQLxXNU4VGQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e366df75d031fb3aa58b2"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:25.182Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:25.182Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "98h4LbPkSa6J1XIj8dci2w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e366df75d031fb3aa58b4"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:19:25.249Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:19:25.249Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "lciwDMs7RVynoLZSwQ8QYA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "7w3dCSmqQQ6K6XJ6dLJKmw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e3c29fbff0e67c79b27f2"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:53.616Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:53.616Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "igqKGn6RT9WUctW9UCSxjQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e3c2afbff0e67c79b27f4"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:54.034Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:54.034Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "+ldtzMAQSUe9t6KqgqkXGQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e3c2afbff0e67c79b27f7"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:54.134Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:54.134Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "InSPT48/SriN837Sdbvmmw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e3c2afbff0e67c79b27f9"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:54.197Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:54.197Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "DJlA2S6qTnSKjKxMNwdX7A==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643e3c2cfbff0e67c79b2815"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:56.525Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:56.525Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6+xBgh17R0aiDh/qlX/7Cg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e3c2cfbff0e67c79b2817"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:56.587Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:56.587Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "6vfE2qP6RR+66JK2XLkM5Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e3c2cfbff0e67c79b2819"
+  },
+  "created_at": {
+    "$date": "2023-04-18T06:43:56.649Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T06:43:56.649Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "dbDB0EPsRq6Z7AXIn0GdWw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "Ov3/YO2YS4GbjUlgw7iWUQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e584926a46631bf0c0f9f"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:52.782Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:52.782Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HYcNAJK3RGiqRchoufyn1g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e584926a46631bf0c0fa1"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:53.102Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:53.102Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "kPRslKiNSsCY/IbG/iV5eg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e584926a46631bf0c0fa4"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:53.201Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:53.201Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "WI3x1gLFRHuiQs26N2MFvg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e584926a46631bf0c0fa6"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:53.263Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:53.263Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "vo6wniJgTVyNB5X/dVnYYg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643e584d26a46631bf0c0fdc"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:57.046Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:57.046Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "VnPCXUFwTLO6C3ZjNSw6BQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e584d26a46631bf0c0fde"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:57.107Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:57.107Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "wxIhCYFVSVSqNJze8t9oxA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e584d26a46631bf0c0fe0"
+  },
+  "created_at": {
+    "$date": "2023-04-18T08:43:57.168Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T08:43:57.168Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3wdJyQ8tTDKCSBMCGM4D9g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "JX0JoOpQTJW7bl7Jv8jq4w==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e7eb58cd96f12608ccceb"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:49.584Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:49.584Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "SAwqd73+TxGyaFO5fN6QqQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e7eb58cd96f12608ccced"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:49.919Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:49.919Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b1Z98g/cSNKzrk6Wfn6ZsQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e7eb68cd96f12608cccf0"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:50.024Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:50.024Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "FRqJLBgyQ9mEzPsLz5ranA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e7eb68cd96f12608cccf2"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:50.089Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:50.089Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "kdmeHKYtSaixgyixL0Wacw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643e7eba8cd96f12608ccd42"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:54.414Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:54.414Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "prcwuzUkTNihGdm3Q6+y/g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e7eba8cd96f12608ccd44"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:54.475Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:54.475Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "eoffgmHzT36YdflbUAMOTQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e7eba8cd96f12608ccd46"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:27:54.540Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:27:54.540Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "NP0ebTrNT7KHHBTrUhlVjw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "1dYxnjliQlGC1WoEU47vHQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e81bd2ba96346feae7337"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:45.026Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:45.026Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Eqtf9JGeQd21aIcJVnWQwA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e81bd2ba96346feae7339"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:45.394Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:45.394Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "OMeOyme2TcevaWmq5O9WkQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e81bd2ba96346feae733c"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:45.490Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:45.490Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "IDPewYg6QAGELKDBlpsE3g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643e81bd2ba96346feae733e"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:45.552Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:45.552Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "u82D66s5TiqFCzps9BWoRw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643e81c02ba96346feae735a"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:48.124Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:48.124Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "VSFfB59XSYiCDVlK5Sri4Q==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643e81c02ba96346feae735c"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:48.184Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:48.184Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8NYeL5kdQp6ugQcxXwEx+g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643e81c02ba96346feae735e"
+  },
+  "created_at": {
+    "$date": "2023-04-18T11:40:48.257Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T11:40:48.257Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "2puGPR3eTU+aWWAYu1Vpfg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "fD9TVYQXRquZIH7YDqrcRw==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643f88347f15afa339bdd674"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:36.337Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:36.337Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ND1049v7QymgZNoJx5r1eQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643f88347f15afa339bdd676"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:36.410Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:36.410Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "gtZLRJ8wQIOAozEAFKUk2w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643f88347f15afa339bdd679"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:36.517Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:36.517Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Q3kxVZFqRGW4lAehwnY7HA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643f88347f15afa339bdd67b"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:36.582Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:36.582Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "8D8+fe6hRDicEkdO81UXDw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643f883c7f15afa339bdd6ff"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:44.202Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:44.202Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "/m7vD1IQS3Sl7ENAfIh+PA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643f883c7f15afa339bdd701"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:44.265Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:44.265Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HNK4/QmbSvGLUF6YpzfUVA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643f883c7f15afa339bdd703"
+  },
+  "created_at": {
+    "$date": "2023-04-19T06:20:44.333Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T06:20:44.333Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "pDd7IJOnSYWXNV7FZR+obQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "L3hCZeRpR8+Ft2ZMp5J6RA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643f93bfd8ca6138706eedc8"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:51.112Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:51.112Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "OkFLExQ+RCmyBni8vq3qmg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643f93bfd8ca6138706eedca"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:51.175Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:51.175Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "qLg3WeXVSXenrbMoX4VAxQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643f93bfd8ca6138706eedcd"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:51.270Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:51.270Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "K32x3YqeS7CmiYvYnqAfOQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643f93bfd8ca6138706eedcf"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:51.335Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:51.335Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "v2M1rrXLQYazBRe+xffkmw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643f93c2d8ca6138706eee05"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:54.341Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:54.341Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "0tXjiBjvRN+VBkyUeNu5IQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643f93c2d8ca6138706eee07"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:54.408Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:54.408Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "d1cMXU5IRBmClVFFlylH4w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643f93c2d8ca6138706eee09"
+  },
+  "created_at": {
+    "$date": "2023-04-19T07:09:54.470Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T07:09:54.470Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "eK0XG7F0TPypymsYn6Sfxw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "uDBPMf5FRkq0+5O7XpGfLQ==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643fbd327f15afa339bdd70e"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:42.182Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:42.182Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "3cwnEuJKQxKQHRppS0Fkog==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643fbd327f15afa339bdd710"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:42.253Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:42.253Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "TLMRu3BJSZyte0fFdz56SA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643fbd327f15afa339bdd713"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:42.709Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:42.709Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "pELpYsTvRUC5WHeEcAjWyw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "643fbd327f15afa339bdd715"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:42.769Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:42.770Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "5XYURcLCQryyztNJ0HZSgA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "643fbd397f15afa339bdd799"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:49.956Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:49.956Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "l3X9zxSnQ9q6VYPRYjMuMA==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "643fbd3a7f15afa339bdd79b"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:50.017Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:50.017Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "b34hm0zATciZYZtJL1rscg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "643fbd3a7f15afa339bdd79d"
+  },
+  "created_at": {
+    "$date": "2023-04-19T10:06:50.079Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-19T10:06:50.079Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "bqsG4j9/QbmWm8wyiCsJQg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "r1TWc4C7RJ+m2F+1vRR0IA==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64476b09d8ca6138706eee12"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:17.629Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:17.629Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "ifJmuOG+QlO8ATq9vwrgHg==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "Basic Information",
+  "part": "initial_section",
+  "position": 1,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64476b0ad8ca6138706eee14"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:18.078Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:18.078Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "X5+r4pgSSQiMWbOWbAkc5w==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "A. Identification",
+  "part": "interview_section",
+  "position": 2,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64476b0bd8ca6138706eee17"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:18.549Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:18.549Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "VqSLQ9S/Szul/j1QOYWHkw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "B. Interview Information",
+  "part": "interview_section",
+  "position": 3,
+  "page": 3
+},
+{
+  "_id": {
+    "$oid": "64476b0bd8ca6138706eee19"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:19.143Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:19.143Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "HZq363/nRUSc2eoa3VbSbw==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "C. Encoding Information",
+  "part": "interview_section",
+  "position": 4,
+  "page": 4
+},
+{
+  "_id": {
+    "$oid": "64476b0cd8ca6138706eee35"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:20.913Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:20.913Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "sxCxZnYjQK2aUWkdRGqOlQ==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H1. Questions for Household",
+  "part": "final_section",
+  "position": 15,
+  "page": 1
+},
+{
+  "_id": {
+    "$oid": "64476b0cd8ca6138706eee37"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:20.974Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:20.974Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "mqGXD435QKiEpub6E04kow==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H2. Questions for Household",
+  "part": "final_section",
+  "position": 16,
+  "page": 2
+},
+{
+  "_id": {
+    "$oid": "64476b0dd8ca6138706eee39"
+  },
+  "created_at": {
+    "$date": "2023-04-25T05:54:21.039Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-25T05:54:21.039Z"
+  },
+  "deleted_at": null,
+  "id": {
+    "$binary": {
+      "base64": "Q5/ss0inRL+MCM9OZ28X9g==",
+      "subType": "03"
+    }
+  },
+  "survey_entry_id": {
+    "$binary": {
+      "base64": "LDCSfee9Ria/aeJa2jT6+A==",
+      "subType": "03"
+    }
+  },
+  "category_name": "H3. Questions for Household",
+  "part": "final_section",
+  "position": 17,
+  "page": 3
+}]

@@ -4866,7 +4866,7 @@
         }
       },
       "qno": "Q46",
-      "title": "46. Do you own or amortize this lot occupied by your house hold or do you rent it, do you occupy it rent-free with consent of owner or rent-free without consent of owner?",
+      "title": "46. Do you own or amortize this lot occupied by your household or do you rent it, do you occupy it rent-free with consent of owner or rent-free without consent of owner?",
       "is_required": true,
       "qn_ranking": null,
       "answers": [
@@ -5055,7 +5055,7 @@
         }
       },
       "qno": "Q49",
-      "title": "49. What is the household’s main source of drinking work?",
+      "title": "49. What is the household’s main source of drinking water?",
       "is_required": true,
       "qn_ranking": null,
       "answers": [
